@@ -2,7 +2,7 @@
 
 ### Présentation du jeu de donné employé : 
 
-<iframe src="https://data.opendatasoft.com/explore/embed/dataset/meilleures-audiences-en-salles-depuis-1945public@cinema-public/table/?&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
+<iframe src="https://data.opendatasoft.com/explore/embed/dataset/meilleures-audiences-en-salles-depuis-1945public@cinema-public/table/?&static=false&datasetcard=true" width="800" height="600" frameborder="0"></iframe>
 
 You can use the [editor on GitHub](https://github.com/Arouapatteri/Partiel_Data/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
