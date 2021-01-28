@@ -1,3 +1,20 @@
+## Le taux de mortalité infantile de 2014 à 2018 (par 1000 naissances vivantes).
+
+### Présentation du jeu de donné employé : 
+
+
+
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5115599"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+
+
+
+
+
+
+
 ## Les plus gros succès de l'Histoire du Cinéma 
 
 ### Présentation du jeu de donné employé : 
@@ -9,6 +26,8 @@ You can use the [editor on GitHub](https://github.com/Arouapatteri/Partiel_Data/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
