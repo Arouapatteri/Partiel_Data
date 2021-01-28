@@ -1,7 +1,11 @@
-## Le taux de mortalité infantile de 2014 à 2018 (par 1000 naissances vivantes).
+## La mortalité infantile de 2014 à 2018.
 
 ### Présentation du jeu de donné employé : 
 
+
+<iframe src="https://arouapatteri.trial.opendatasoft.com/explore/embed/dataset/mortalite/table/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
+
+### Datavisualisation effectuée avec Flourish : Le taux de mortalité infantile de 2014 à 2018 (par 1000 naissances vivantes).
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5115599"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -18,7 +22,6 @@
 
 ### Présentation du jeu de donné employé : 
 
-<iframe src="https://arouapatteri.trial.opendatasoft.com/explore/embed/dataset/mortalite/table/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
 You can use the [editor on GitHub](https://github.com/Arouapatteri/Partiel_Data/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
