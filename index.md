@@ -13,11 +13,14 @@
 
 
 
-### Présentation du jeu de donnée :
+### Présentation du jeu de donnée 
+## Le jeu de donnée - Espérance de vie moyenne par pays depuis 1800
 
 <iframe src="https://arouapatteri.trial.opendatasoft.com/explore/embed/dataset/test/table/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
-## Le jeu de donnée - Espérance de vie moyenne par pays depuis 1800
+## Seconde Datavisualisation effectuée avec l'outil Flourish 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5117674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Présentation du jeu de donné employé : 
 
