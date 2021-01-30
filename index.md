@@ -16,13 +16,15 @@
 
 
 ### Présentation du jeu de donnée 
-## Le jeu de donnée - Espérance de vie moyenne par pays depuis 1817
+## Espérance de vie moyenne par pays depuis 1817
 
 <iframe src="https://arouapatteri.trial.opendatasoft.com/explore/embed/dataset/test/table/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
 ## Seconde Datavisualisation effectuée avec l'outil Flourish 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5117674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Et qu'en est-il de la France ?
 
 ### Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018
 
@@ -31,8 +33,7 @@ Selon la Direction de la recherche, des études, de l'évaluation et des statist
 
 Certes, nous vivons plus longtemps . Mais vivons-nous bien ? 
 
-L'EVSI (espérence de vie sans incapacité) est un indicateur ou "Espérance de vie en bonne santé" évalue, à la naissance, le nombre d’années qu’une personne peut compter vivre sans souffrir d’incapacité dans les gestes de la vie quotidienne.
-
+L'EVSI (espérence de vie sans incapacité) ou "Espérance de vie en bonne santé" est un indicateur qui  évalue, à la naissance, le nombre d’années qu’une personne peut compter vivre sans souffrir d’incapacité dans les gestes de la vie quotidienne.
 En 2018 l'EVSI s'est établie en France à 64,5 ans pour les femmes et 63,4 pour les hommes.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5131949"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
