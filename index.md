@@ -36,7 +36,6 @@ L'EVSI (espérence de vie sans incapacité) est un indicateur ou "Espérance de 
 En 2018 l'EVSI s'est établie en France à 64,5 ans pour les femmes et 63,4 pour les hommes.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5131949"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 ### Markdown
 
 
