@@ -1,3 +1,5 @@
+# Inégalités et espèrance de vie.
+
 ## La mortalité infantile de 2014 à 2018.
 
 ### Présentation du jeu de donné employé : 
@@ -14,7 +16,7 @@
 
 
 ### Présentation du jeu de donnée 
-## Le jeu de donnée - Espérance de vie moyenne par pays depuis 1800
+## Le jeu de donnée - Espérance de vie moyenne par pays depuis 1817
 
 <iframe src="https://arouapatteri.trial.opendatasoft.com/explore/embed/dataset/test/table/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
@@ -22,12 +24,18 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5117674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### Présentation du jeu de donné employé : 
+### Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018
+
+Selon la Direction de la recherche, des études, de l'évaluation et des statistiques (DREES) l'espérance de vie en bonne santé s'élève en France à 64,5 ans pour les femmes et 63,4 pour les hommes en 2018, on note que ce chiffre n'a que très peu évolué en dix ans. 
 
 
-You can use the [editor on GitHub](https://github.com/Arouapatteri/Partiel_Data/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Certes, nous vivons plus longtemps . Mais vivons-nous bien ? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+L'EVSI (espérence de vie sans incapacité) est un indicateur ou "Espérance de vie en bonne santé" évalue, à la naissance, le nombre d’années qu’une personne peut compter vivre sans souffrir d’incapacité dans les gestes de la vie quotidienne.
+
+En 2018 l'EVSI s'est établie en France à 64,5 ans pour les femmes et 63,4 pour les hommes.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5131949"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Markdown
 
