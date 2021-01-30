@@ -26,12 +26,11 @@
 
 # Et qu'en est-il de la France ?
 
-### Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018
-
-Selon la Direction de la recherche, des études, de l'évaluation et des statistiques (DREES) l'espérance de vie en bonne santé s'élève en France à 64,5 ans pour les femmes et 63,4 pour les hommes en 2018, on note que ce chiffre n'a que très peu évolué en dix ans. 
-
+### Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France
 
 Certes, nous vivons plus longtemps . Mais vivons-nous bien ? 
+Selon la Direction de la recherche, des études, de l'évaluation et des statistiques (DREES) l'espérance de vie en bonne santé s'élève en France à 64,5 ans pour les femmes et 63,4 pour les hommes en 2018, on note que ce chiffre n'a que très peu évolué en dix ans. 
+
 
 L'EVSI (espérence de vie sans incapacité) ou "Espérance de vie en bonne santé" est un indicateur qui  évalue, à la naissance, le nombre d’années qu’une personne peut compter vivre sans souffrir d’incapacité dans les gestes de la vie quotidienne.
 En 2018 l'EVSI s'est établie en France à 64,5 ans pour les femmes et 63,4 pour les hommes.
