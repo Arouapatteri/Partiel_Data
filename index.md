@@ -4,10 +4,10 @@
 
 1. [La mortalité infantile à travers le monde depuis 2014](##LaMortalitéInfantile)
 2. [Espérance de vie de 1817 à 2017 par pays](##EpéranceDeVieDepuis1817)
-3. [Et en France Alors ?](##EtEnFranceAlors)
+3. [Et en France alors ?](##EtEnFranceAlors)
 
 
-## 1. La mortalité infantile
+## 1. La mortalité infantile dans le monde.
 
 ### A - Définition 
 
