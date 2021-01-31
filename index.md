@@ -77,7 +77,8 @@ Outil : Datawrapper
 
 ### B - Column Chart (grouped) de l'espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France.
 
-Ce modèle permet de rendre compte de la 
+Ce modèle s'est avéré particulièrement représentatif dans la mesure où mon jeu de données comportait un petit nombre de catégories distinctes, avec une valeur unique pour chaque catégorie.
+L'objectif étant de comparer les valeurs par chaque catégorie en simplifiant la tâche au lecteur, ce diagramme en colonnes fait appel à la capacité instinctive du lecteur à déduire les hauteurs. Ce modèle est facile d'interprétation et ne necessite pas de réelle aptitude d'analyse ou de formation pour être compris.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5131949"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
