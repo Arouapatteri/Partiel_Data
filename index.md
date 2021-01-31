@@ -3,7 +3,7 @@
 # Sommaire 
 
 1. [La mortalité infantile à travers le monde depuis 2014](##LaMortalitéInfantile)
-2. [Espérance de vie de 1817 à 2017](##EpéranceDeVieDepuis1817)
+2. [Espérance de vie de 1817 à 2017 par pays](##EpéranceDeVieDepuis1817)
 3. [Et en France Alors ?](##EtEnFranceAlors)
 
 
@@ -12,7 +12,7 @@
 ### A - Définition 
 
 La mortalité infantile est le nombre annuel de décès d’enfants rapporté au nombre de naissances pour une populationn donnée. On parle alors de taux de mortalité infantile. Cet indicateur nous renseigne essentiellement sur le contexte sanitaire des nouveaux-nés dans un territoire. 
-Ainsi, on remarque que la mortalité infantile est plus marquée dans les pays dits "sous-dévellopés" ou "en développement". Le taux de mortalité infantile a considérablement diminué en Europe, en Amérique du Nord ainsi qu'en Asie du Sud-Est, tandis qu'en Afrique les inégalités se creusent, notamment en Afrique centrale où l'on dénombre tout de même encore en 93 décés pour 1000 naissances en République centraficaine en 2018.
+Ainsi, on remarque que la mortalité infantile est plus marquée dans les pays dits "sous-dévellopés" ou "en développement". Le taux de mortalité infantile a considérablement diminué en Europe, en Amérique du Nord ainsi qu'en Asie du Sud-Est, tandis qu'en Afrique les inégalités se creusent, notamment en Afrique centrale où l'on dénombre tout de même encore en 93 décés pour 1000 naissances en République centraficaine en 2018. Rappelons que l’un des principaux déterminants des inégalités d’espérance de vie à travers le globe demeure le taux de mortalité infantile. 
 
 ### B - La mortalité infantile de 2014 à 2018 : un indicateur révélateur de bien des difficultés démographiques et socio-économiques.
 
