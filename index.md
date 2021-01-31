@@ -2,12 +2,13 @@
 
    Que l'on soit né en Somalie ou en Norvège, on peut espèrer vivre moins de 25 ans ou plus de 80 ans. Ces cinquantes dernières années ont vue l'espérance de vie augmenter de manière significative, cependant l'écart entre pays développé et pays en voie de développement (voire sous-développé) demeure conséquent.
 De même, en fonction de la région du Monde où nous naissons nous avons plus ou moins de chances de vivre longuement. En effet, l’un des principaux déterminants des inégalités d’espérance de vie à travers le globe demeure le taux de mortalité infantile. 
+
 Pour qu’une population puisse atteindre une moyenne d'âge de 70 ans ou plus, il faut avant toute chose que les nourissons survivent à leurs premières années. Selon une étude de l'INSEE "La mortalité infantile se concentre dans les premiers jours de la vie : la moitié des enfants décédés avant leur premier anniversaire ont vécu moins d’une semaine."
 
 ## Définition : 
 
 La mortalité infantile est le nombre annuel de décès d’enfants rapporté au nombre de naissances pour une populationn donnée. On parle alors de taux de mortalité infantile. Cet indicateur nous renseigne essentiellement sur le contexte sanitaire des nouveaux-nés dans un territoire. 
-Ainsi, on remarque que la mortalité infantile est plus marquée dans les pays dits "sous-dévellopés" ou "en developpement". Le taux de mortalité infantile a considérablement diminué en Europe, en Amérique du Nord ainsi qu'en Asie du Sud-Est. Mais, selon les Nations Unies (données 2010-2015), près d’un enfant sur dix meurt encore avant d’atteindre son cinquième anniversaire en Afrique subsaharienne (95 décès pour 1000 naissances vivantes), en Afghanistan (81 ‰) ou au Pakistan (87 ‰).
+Ainsi, on remarque que la mortalité infantile est plus marquée dans les pays dits "sous-dévellopés" ou "en developpement". Le taux de mortalité infantile a considérablement diminué en Europe, en Amérique du Nord ainsi qu'en Asie du Sud-Est, tandis qu'en Afrique les inégalités se creusent, notamment en Afrique, on dénombre tout de mmême encore en 2018 93 décés pour 1000 naissancess en République centraficaine.
 
 ## La mortalité infantile de 2014 à 2018 : un indicateur révélateur de bien des difficultés.
 
@@ -17,7 +18,6 @@ Tableau du taux de mortalité infantile de 2014 à 2018 par pays.
 
 Source : https://www.gapminder.org/data/ 
 
-
 <iframe src="https://arouapatteri.trial.opendatasoft.com/explore/embed/dataset/mortalite/table/?&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
 
 ### Evolution du taux de mortalité infantile de 2014 et 2018 (par 1000 naissances vivantes).
@@ -26,7 +26,6 @@ Outil de datavisualissation : Flourish
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5115599"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
 ## L'espérance de vie depuis 1817 
 
 ### Présentation du jeu de donnée employé :
@@ -34,7 +33,6 @@ Outil de datavisualissation : Flourish
 Tableau de la moyenne d'espèrance de vie en 1817, 1917 et 2017 par pays.
 
 Source : https://www.gapminder.org/data/ 
-
 
 <iframe src="https://arouapatteri.trial.opendatasoft.com/explore/embed/dataset/test/table/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
