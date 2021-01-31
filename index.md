@@ -4,35 +4,46 @@
 De même, en fonction de la région du Monde où nous naissons nous avons plus ou moins de chances de vivre longuement. En effet, l’un des principaux déterminants des inégalités d’espérance de vie à travers le globe demeure le taux de mortalité infantile. 
 Pour qu’une population puisse atteindre une moyenne d'âge de 70 ans ou plus, il faut avant toute chose que les nourissons survivent à leurs premières années. Selon une étude de l'INSEE "La mortalité infantile se concentre dans les premiers jours de la vie : la moitié des enfants décédés avant leur premier anniversaire ont vécu moins d’une semaine."
 
-
 ## Définition : 
 
 La mortalité infantile est le nombre annuel de décès d’enfants rapporté au nombre de naissances pour une populationn donnée. On parle alors de taux de mortalité infantile. Cet indicateur nous renseigne essentiellement sur le contexte sanitaire des nouveaux-nés dans un territoire. 
 Ainsi, on remarque que la mortalité infantile est plus marquée dans les pays dits "sous-dévellopés" ou "en developpement". Le taux de mortalité infantile a considérablement diminué en Europe, en Amérique du Nord ainsi qu'en Asie du Sud-Est. Mais, selon les Nations Unies (données 2010-2015), près d’un enfant sur dix meurt encore avant d’atteindre son cinquième anniversaire en Afrique subsaharienne (95 décès pour 1000 naissances vivantes), en Afghanistan (81 ‰) ou au Pakistan (87 ‰).
 
-## La mortalité infantile de 2014 à 2018 : un indicateur révélateur de difficultés.
+## La mortalité infantile de 2014 à 2018 : un indicateur révélateur de bien des difficultés.
 
 ### Présentation du jeu de donné employé : 
+
+Tableau du taux de mortalité infantile de 2014 à 2018 par pays.
+Source : https://www.gapminder.org/data/ 
 
 
 <iframe src="https://arouapatteri.trial.opendatasoft.com/explore/embed/dataset/mortalite/table/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
-### Datavisualisation effectuée avec Flourish : Le taux de mortalité infantile de 2014 à 2018 (par 1000 naissances vivantes).
+### Evolution du taux de mortalité infantile de 2014 et 2018 (par 1000 naissances vivantes).
 
+Outil de datavisualissation : Flourish
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5115599"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-### Présentation du jeu de donnée 
-## Espérance de vie moyenne par pays depuis 1817
+## L'espérance de vie depuis 1817 
+
+### Présentation du jeu de donnée employé :
+
+Source : https://drees2-sgsocialgouv.opendatasoft.com/explore/dataset/3457_esperance-de-vie-sans-incapacite/information/
+Tableau de la moyenne d'espèrance de vie en 1817, 1917 et 2017 par pays.
 
 <iframe src="https://arouapatteri.trial.opendatasoft.com/explore/embed/dataset/test/table/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
-## Seconde Datavisualisation effectuée avec l'outil Flourish 
+## Evolution de la moyenne d'espérance de vie par pays depuis 1817.
+
+Outil de datavisualisation : Flourish
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5117674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Et qu'en est-il de la France ?
+## Et qu'en est-il de la France ?
+
+## Présentation du jeu de donné employé :
 
 ### Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France
 
