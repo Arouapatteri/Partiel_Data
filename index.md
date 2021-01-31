@@ -51,7 +51,13 @@ Outil de datavisualisation : Flourish
 ### Présentation du jeu de donné employé :
 
 Tableau de l'évolution de l'espérance de vie à la naissance et de l'EVSI "espérance de vie sans incapacité" par sexe et âge en France en 2018 
+
 Source : https://drees2-sgsocialgouv.opendatasoft.com/explore/dataset/3457_esperance-de-vie-sans-incapacite/information/
+
+Outil : Datawrapper
+
+<iframe title="Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France" aria-label="chart" id="datawrapper-chart-sYNHm" src="https://datawrapper.dwcdn.net/sYNHm/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="789"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 ## Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France
 
@@ -60,36 +66,3 @@ Certes, nous vivons plus longtemps . Mais vivons-nous bien ?
 Selon la Direction de la recherche, des études, de l'évaluation et des statistiques (DREES) l'espérance de vie en bonne santé s'élève en France à 64,5 ans pour les femmes et 63,4 pour les hommes en 2018.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5131949"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-
-### Markdown
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arouapatteri/Partiel_Data/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
