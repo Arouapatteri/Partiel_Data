@@ -18,7 +18,8 @@ Tableau du taux de mortalité infantile de 2014 à 2018 par pays.
 
 Source : https://www.gapminder.org/data/ 
 
-<iframe src="https://arouapatteri.trial.opendatasoft.com/explore/embed/dataset/mortalite/table/?&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
+<iframe title="" aria-label="chart" id="datawrapper-chart-5j2Pc" src="https://datawrapper.dwcdn.net/5j2Pc/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="769"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 ### Evolution du taux de mortalité infantile de 2014 et 2018 (par 1000 naissances vivantes).
 
@@ -36,9 +37,6 @@ Source : https://www.gapminder.org/data/
 
 <iframe src="https://arouapatteri.trial.opendatasoft.com/explore/embed/dataset/test/table/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
-
-<iframe title="" aria-label="chart" id="datawrapper-chart-5j2Pc" src="https://datawrapper.dwcdn.net/5j2Pc/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="769"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
 
 ## Evolution de la moyenne d'espérance de vie par pays depuis 1817.
 
