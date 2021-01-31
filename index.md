@@ -23,11 +23,19 @@ Source : https://www.gapminder.org/data/
 <iframe title="Jeu de données - Taux de mortalité infantile de 2014 à 2018 par pays." aria-label="chart" id="datawrapper-chart-5j2Pc" src="https://datawrapper.dwcdn.net/5j2Pc/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="794"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-### C - Datavisualisation de l'évolution du taux de mortalité infantile de 2014 et 2018 (par 1000 naissances vivantes).
+### C - Datavisualisation du taux de mortalité infantile en 2018 (par 1000 naissances vivantes) par pays.
+
+Outil de datavisualisation : Datawrapper
+
+<iframe title="Taux de mortalité infantile en 2018 par pays (par 1 000 naissances vivantes)" aria-label="Map" id="datawrapper-chart-9egap" src="https://datawrapper.dwcdn.net/9egap/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+### D - Datavisualisation de l'évolution du taux de mortalité infantile de 2014 et 2018 (par 1000 naissances vivantes).
 
 Outil de datavisualissation : Flourish
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5115599"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 ## 2. Espérance de vie depuis 1817 dans le Monde 
 
