@@ -18,7 +18,7 @@ Tableau du taux de mortalité infantile de 2014 à 2018 par pays.
 Source : https://www.gapminder.org/data/ 
 
 
-<iframe src="https://arouapatteri.trial.opendatasoft.com/explore/embed/dataset/mortalite/table/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
+<iframe src="https://arouapatteri.trial.opendatasoft.com/explore/embed/dataset/mortalite/table/?&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
 
 ### Evolution du taux de mortalité infantile de 2014 et 2018 (par 1000 naissances vivantes).
 
