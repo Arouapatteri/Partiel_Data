@@ -54,6 +54,12 @@ Outil de datavisualisation : Flourish
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5117674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+### D - Datavisualisation de la moyenne d'espérance de vie par pays en 2017.
+
+<iframe title="Moyenne de l'espérance de vie dans le Monde en 2017 " aria-label="Map" id="datawrapper-chart-XzgEi" src="https://datawrapper.dwcdn.net/XzgEi/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="368"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+
 ## 3. Et en France Alors ? Certes, nous vivons plus longtemps. Mais vivons-nous bien ?
 
 ### A - Défnition 
