@@ -60,7 +60,6 @@ Outil de datavisualisation : Flourish
 ### A - Défnition 
 
 L'EVSI (espérence de vie sans incapacité) ou "Espérance de vie en bonne santé" est un indicateur qui  évalue, à la naissance, le nombre d’années qu’une personne peut compter vivre sans souffrir d’incapacité dans les gestes de la vie quotidienne.
-Certes, nous vivons plus longtemps . Mais vivons-nous bien ? 
 Selon la Direction de la recherche, des études, de l'évaluation et des statistiques (DREES) l'espérance de vie en bonne santé s'élève en France à 64,5 ans pour les femmes et 63,4 pour les hommes en 2018.
 
 Source : https://drees2-sgsocialgouv.opendatasoft.com/explore/dataset/3457_esperance-de-vie-sans-incapacite/information/
