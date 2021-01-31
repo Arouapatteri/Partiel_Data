@@ -14,6 +14,7 @@ Ainsi, on remarque que la mortalité infantile est plus marquée dans les pays d
 ### Présentation du jeu de donné employé : 
 
 Tableau du taux de mortalité infantile de 2014 à 2018 par pays.
+
 Source : https://www.gapminder.org/data/ 
 
 
@@ -30,8 +31,10 @@ Outil de datavisualissation : Flourish
 
 ### Présentation du jeu de donnée employé :
 
-Source : https://drees2-sgsocialgouv.opendatasoft.com/explore/dataset/3457_esperance-de-vie-sans-incapacite/information/
 Tableau de la moyenne d'espèrance de vie en 1817, 1917 et 2017 par pays.
+
+Source : https://www.gapminder.org/data/ 
+
 
 <iframe src="https://arouapatteri.trial.opendatasoft.com/explore/embed/dataset/test/table/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
@@ -44,6 +47,9 @@ Outil de datavisualisation : Flourish
 ## Et qu'en est-il de la France ?
 
 ## Présentation du jeu de donné employé :
+
+Tableau de l'évolution de l'espérance de vie à la naissance et de l'EVSI "espérance de vie sans incapacité" par sexe et âge en France en 2018 
+Source : https://drees2-sgsocialgouv.opendatasoft.com/explore/dataset/3457_esperance-de-vie-sans-incapacite/information/
 
 ### Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France
 
