@@ -62,7 +62,7 @@ Ce modèle se prêter parfaitement à mon jeu de données dans la mesure où je 
 
 ## 3. Et en France Alors ? Certes, nous vivons plus longtemps. Mais vivons-nous bien ?
 
-### A - Défnition 
+### A - Définition 
 
 L'EVSI (espérence de vie sans incapacité) ou "Espérance de vie en bonne santé" est un indicateur qui  évalue, à la naissance, le nombre d’années qu’une personne peut compter vivre sans souffrir d’incapacité dans les gestes de la vie quotidienne.
 Selon la Direction de la recherche, des études, de l'évaluation et des statistiques (DREES) l'espérance de vie en bonne santé s'élève en France à 64,5 ans pour les femmes et 63,4 pour les hommes en 2018.
@@ -75,8 +75,9 @@ Outil : Datawrapper
 <iframe title="Jeu de données - Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France" aria-label="chart" id="datawrapper-chart-sYNHm" src="https://datawrapper.dwcdn.net/sYNHm/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="701"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-### B - Datavisualisation de l'espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France
+### B - Column Chart (grouped) de l'espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France.
 
+Ce modèle permet de rendre compte de la 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5131949"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
