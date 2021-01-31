@@ -20,7 +20,7 @@ Outil : Datawrapper
 
 Source : https://www.gapminder.org/data/ 
 
-<iframe title="" aria-label="chart" id="datawrapper-chart-5j2Pc" src="https://datawrapper.dwcdn.net/5j2Pc/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="769"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Jeu de données - Taux de mortalité infantile de 2014 à 2018 par pays." aria-label="chart" id="datawrapper-chart-5j2Pc" src="https://datawrapper.dwcdn.net/5j2Pc/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="794"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 ### 2) Evolution du taux de mortalité infantile de 2014 et 2018 (par 1000 naissances vivantes).
