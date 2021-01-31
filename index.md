@@ -23,7 +23,7 @@ Source : https://www.gapminder.org/data/
 <iframe title="Jeu de données - Taux de mortalité infantile de 2014 à 2018 par pays." aria-label="chart" id="datawrapper-chart-5j2Pc" src="https://datawrapper.dwcdn.net/5j2Pc/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="794"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-### C - Evolution du taux de mortalité infantile de 2014 et 2018 (par 1000 naissances vivantes).
+### C - Datavisualisation de l'évolution du taux de mortalité infantile de 2014 et 2018 (par 1000 naissances vivantes).
 
 Outil de datavisualissation : Flourish
 
@@ -38,7 +38,7 @@ De même, en fonction de la région du Monde où nous naissons nous avons plus o
 Pour qu’une population puisse atteindre une moyenne d'âge de 70 ans ou plus, il faut avant toute chose que les nourissons survivent à leurs premières années. Selon une étude de l'INSEE "La mortalité infantile se concentre dans les premiers jours de la vie : la moitié des enfants décédés avant leur premier anniversaire ont vécu moins d’une semaine."
 
 
-## 2. Espérance de vie depuis 1817 
+## 2. Espérance de vie depuis 1817 dans le Monde 
 
 ### A - Définition
 
@@ -49,14 +49,19 @@ Source : https://www.gapminder.org/data/
 <iframe title="Jeu de données - Moyenne d'espérance de vie en 1817, 1917 et 2017 par pays." aria-label="chart" id="datawrapper-chart-yATfN" src="https://datawrapper.dwcdn.net/yATfN/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="764"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-### C - Evolution de la moyenne d'espérance de vie par pays depuis 1817.
+### C - Datavisualisation de l'évolution de la moyenne d'espérance de vie par pays depuis 1817.
 
 Outil de datavisualisation : Flourish
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5117674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## 3. Et en France Alors ?
+## 3. Et en France Alors ? Certes, nous vivons plus longtemps. Mais vivons-nous bien ?
 
+### A - Défnition 
+
+L'EVSI (espérence de vie sans incapacité) ou "Espérance de vie en bonne santé" est un indicateur qui  évalue, à la naissance, le nombre d’années qu’une personne peut compter vivre sans souffrir d’incapacité dans les gestes de la vie quotidienne.
+Certes, nous vivons plus longtemps . Mais vivons-nous bien ? 
+Selon la Direction de la recherche, des études, de l'évaluation et des statistiques (DREES) l'espérance de vie en bonne santé s'élève en France à 64,5 ans pour les femmes et 63,4 pour les hommes en 2018.
 
 Source : https://drees2-sgsocialgouv.opendatasoft.com/explore/dataset/3457_esperance-de-vie-sans-incapacite/information/
 
@@ -66,11 +71,7 @@ Outil : Datawrapper
 <iframe title="Jeu de données - Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France" aria-label="chart" id="datawrapper-chart-sYNHm" src="https://datawrapper.dwcdn.net/sYNHm/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="701"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-### A) Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France
+### B - Datavisualisation de l'espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France
 
-
-L'EVSI (espérence de vie sans incapacité) ou "Espérance de vie en bonne santé" est un indicateur qui  évalue, à la naissance, le nombre d’années qu’une personne peut compter vivre sans souffrir d’incapacité dans les gestes de la vie quotidienne.
-Certes, nous vivons plus longtemps . Mais vivons-nous bien ? 
-Selon la Direction de la recherche, des études, de l'évaluation et des statistiques (DREES) l'espérance de vie en bonne santé s'élève en France à 64,5 ans pour les femmes et 63,4 pour les hommes en 2018.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5131949"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
