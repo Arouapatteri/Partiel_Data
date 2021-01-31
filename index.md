@@ -1,4 +1,6 @@
-# Inégalités et espèrance de vie.
+# Les inégalités d’espérance de vie dans le monde
+
+Que l'on soit né en Somalie ou en Norvège, on peut espèrer vivre moins de 25 ans ou plus de 80 ans. Ces cinquantes dernières années ont vue l'espérance de vie augmenter de manière significative, cependant l'écart entre pays développé et pays en voie de développement (voire sous-développé) demeure conséquent.
 
 ## La mortalité infantile de 2014 à 2018.
 
