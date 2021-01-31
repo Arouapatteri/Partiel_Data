@@ -1,17 +1,23 @@
+# Les Inégalités d'Espérance de Vie dans le Monde.
+
 # Sommaire 
 
-1. [Les inégalités espérance de vie dans le monde](##LesInégalitésEpéranceDeVieDansLeMonde)
+1. [La mortalité infantile](##LaMortalitéInfantile)
+2. [Première datavisualisation avec l'outil Flourish](##1datavizFlourish)
+3. [Deuxième datavisualisation avec l'outil Datawrapper](##2datavizDatawrapper)
+4. [Troisième datavisualisation avec l'outil OpenRefine](##3datavizOpenrefine)
+5. [Visualisation de Paris avec Wikidata Query Service](##4queryWikiData)
 
 
 
-# 1. Les inégalités espérance de vie dans le monde
+## 1. La mortalité infantile
 
-### A) La mortalité infantile : 
+### A - Définition 
 
 La mortalité infantile est le nombre annuel de décès d’enfants rapporté au nombre de naissances pour une populationn donnée. On parle alors de taux de mortalité infantile. Cet indicateur nous renseigne essentiellement sur le contexte sanitaire des nouveaux-nés dans un territoire. 
 Ainsi, on remarque que la mortalité infantile est plus marquée dans les pays dits "sous-dévellopés" ou "en developpement". Le taux de mortalité infantile a considérablement diminué en Europe, en Amérique du Nord ainsi qu'en Asie du Sud-Est, tandis qu'en Afrique les inégalités se creusent, notamment en Afrique, on dénombre tout de mmême encore en 2018 93 décés pour 1000 naissancess en République centraficaine.
 
-### B) La mortalité infantile de 2014 à 2018 : un indicateur révélateur de bien des difficultés.
+### B - La mortalité infantile de 2014 à 2018 : un indicateur révélateur de bien des difficultés.
 
 Outil : Datawrapper
 
@@ -20,14 +26,14 @@ Source : https://www.gapminder.org/data/
 <iframe title="Jeu de données - Taux de mortalité infantile de 2014 à 2018 par pays." aria-label="chart" id="datawrapper-chart-5j2Pc" src="https://datawrapper.dwcdn.net/5j2Pc/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="794"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-### 2) Evolution du taux de mortalité infantile de 2014 et 2018 (par 1000 naissances vivantes).
+### C - Evolution du taux de mortalité infantile de 2014 et 2018 (par 1000 naissances vivantes).
 
 Outil de datavisualissation : Flourish
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5115599"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-### C) Analyse 
+### D - Analyse 
 
    Que l'on soit né en Somalie ou en Norvège, on peut espèrer vivre moins de 25 ans ou plus de 80 ans. Ces cinquantes dernières années ont vue l'espérance de vie augmenter de manière significative, cependant l'écart entre pays développé et pays en voie de développement (voire sous-développé) demeure conséquent.
 De même, en fonction de la région du Monde où nous naissons nous avons plus ou moins de chances de vivre longuement. En effet, l’un des principaux déterminants des inégalités d’espérance de vie à travers le globe demeure le taux de mortalité infantile. 
