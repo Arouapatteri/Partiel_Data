@@ -3,7 +3,7 @@
 # Sommaire 
 
 1. [La mortalité infantile](##LaMortalitéInfantile)
-2. [Espérance de vie depuis 1817 ](##EpéranceDeVieDepuis1817)
+2. [Espérance de vie depuis 1817](##EpéranceDeVieDepuis1817)
 3. [Et en France Alors ?](##EtEnFranceAlors)
 
 
