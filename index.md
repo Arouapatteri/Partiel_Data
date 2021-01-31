@@ -3,11 +3,8 @@
 # Sommaire 
 
 1. [La mortalité infantile](##LaMortalitéInfantile)
-2. [L'espérance de vie depuis 1817 ](##LEspéranceDeVieDepuis1817)
-3. [Deuxième datavisualisation avec l'outil Datawrapper](##2datavizDatawrapper)
-4. [Troisième datavisualisation avec l'outil OpenRefine](##3datavizOpenrefine)
-5. [Visualisation de Paris avec Wikidata Query Service](##4queryWikiData)
-
+2. [Espérance de vie depuis 1817 ](##EpéranceDeVieDepuis1817)
+3. [Et en France Alors ?](##EtEnFranceAlors)
 
 
 ## 1. La mortalité infantile
@@ -41,7 +38,7 @@ De même, en fonction de la région du Monde où nous naissons nous avons plus o
 Pour qu’une population puisse atteindre une moyenne d'âge de 70 ans ou plus, il faut avant toute chose que les nourissons survivent à leurs premières années. Selon une étude de l'INSEE "La mortalité infantile se concentre dans les premiers jours de la vie : la moitié des enfants décédés avant leur premier anniversaire ont vécu moins d’une semaine."
 
 
-## 2. L'espérance de vie depuis 1817 
+## 2. Espérance de vie depuis 1817 
 
 ### A - Définition
 
@@ -58,7 +55,7 @@ Outil de datavisualisation : Flourish
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5117674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## 3. Et qu'en est-il de la France ?
+## 3. Et en France Alors ?
 
 
 Source : https://drees2-sgsocialgouv.opendatasoft.com/explore/dataset/3457_esperance-de-vie-sans-incapacite/information/
