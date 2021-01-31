@@ -48,10 +48,10 @@ Source : https://www.gapminder.org/data/
 <iframe title="Jeu de données - Moyenne d'espérance de vie en 1817, 1917 et 2017 par pays." aria-label="chart" id="datawrapper-chart-yATfN" src="https://datawrapper.dwcdn.net/yATfN/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="764"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-### C - Datavisualisation de l'évolution de la moyenne d'espérance de vie par pays depuis 1817.
+### C - Column Chart (stacked) de l'évolution de la moyenne d'espérance de vie par pays depuis 1817.
 
 Outil de datavisualisation : Flourish
-
+Ce modèle se prêter parfaitement à mon jeu de données dans la mesure où je souhaitais superposer les trois années (1817, 1917, 2017) afin de mettre en évidence l'augmentation de l'espérance de vie. L'espérande de vie s'eest vu rallonger dans tous les pays du monde, néanmoins on constate de fortes disparités, l'Afrique demeure à distance des autres continents.
 <div class="flourish-embed flourish-chart" data-src="visualisation/5117674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### D - Datavisualisation de la moyenne d'espérance de vie par pays en 2017.
