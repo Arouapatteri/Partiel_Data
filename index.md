@@ -80,7 +80,6 @@ Outil : Datawrapper
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5131949"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
 ### C - Analyse 
 
    Que l'on soit né en Somalie ou en Norvège, on peut espèrer vivre moins de 25 ans ou plus de 80 ans. Ces dernières années ont vue l'espérance de vie augmenter de manière significative, cependant l'écart entre pays développé et pays en voie de développement (voire sous-développé) demeure conséquent.
