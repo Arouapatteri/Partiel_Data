@@ -14,8 +14,6 @@ Ainsi, on remarque que la mortalité infantile est plus marquée dans les pays d
 
 ### Présentation du jeu de donné employé : 
 
-Tableau du taux de mortalité infantile de 2014 à 2018 par pays.
-
 Outil : Datawrapper
 
 Source : https://www.gapminder.org/data/ 
@@ -48,12 +46,8 @@ Outil de datavisualisation : Flourish
 
 ## 3) Et qu'en est-il de la France ?
 
+### A) Présentation du jeu de donné employé :
 
-## A) Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France
-
-### Présentation du jeu de donné employé :
-
-Tableau de l'évolution de l'espérance de vie à la naissance et de l'EVSI "espérance de vie sans incapacité" par sexe et âge en France en 2018 
 
 Source : https://drees2-sgsocialgouv.opendatasoft.com/explore/dataset/3457_esperance-de-vie-sans-incapacite/information/
 
@@ -62,6 +56,8 @@ Outil : Datawrapper
 
 <iframe title="Jeu de données - Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France" aria-label="chart" id="datawrapper-chart-sYNHm" src="https://datawrapper.dwcdn.net/sYNHm/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="701"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+## B) Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France
 
 
 L'EVSI (espérence de vie sans incapacité) ou "Espérance de vie en bonne santé" est un indicateur qui  évalue, à la naissance, le nombre d’années qu’une personne peut compter vivre sans souffrir d’incapacité dans les gestes de la vie quotidienne.
