@@ -11,7 +11,7 @@ Pour qu’une population puisse atteindre une moyenne d'âge de 70 ou 80 ans, il
 La mortalité infantile est le nombre annuel de décès d’enfants rapporté au nombre de naissances pour une populationn donnée. On parle alors de taux de mortalité infantile. Cet indicateur nous renseigne essentiellement sur le contexte sanitaire des nouveaux-nés dans un territoire. 
 Ainsi, on remarque que la mortalité infantile est plus marquée dans les pays dits "sous-dévellopés" ou "en developpement". Le taux de mortalité infantile a considérablement diminué en Europe, en Amérique du Nord ainsi qu'en Asie du Sud-Est. Mais, selon les Nations Unies (données 2010-2015), près d’un enfant sur dix meurt encore avant d’atteindre son cinquième anniversaire en Afrique subsaharienne (95 décès pour 1000 naissances vivantes), en Afghanistan (81 ‰) ou au Pakistan (87 ‰).
 
-## La mortalité infantile de 2014 à 2018.
+## La mortalité infantile de 2014 à 2018 : un indicateur révélateur de difficultés.
 
 ### Présentation du jeu de donné employé : 
 
