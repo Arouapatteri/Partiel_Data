@@ -1,16 +1,16 @@
-# Les inégalités d’espérance de vie dans le monde
+# 1. Les inégalités d’espérance de vie dans le monde
 
    Que l'on soit né en Somalie ou en Norvège, on peut espèrer vivre moins de 25 ans ou plus de 80 ans. Ces cinquantes dernières années ont vue l'espérance de vie augmenter de manière significative, cependant l'écart entre pays développé et pays en voie de développement (voire sous-développé) demeure conséquent.
 De même, en fonction de la région du Monde où nous naissons nous avons plus ou moins de chances de vivre longuement. En effet, l’un des principaux déterminants des inégalités d’espérance de vie à travers le globe demeure le taux de mortalité infantile. 
 
 Pour qu’une population puisse atteindre une moyenne d'âge de 70 ans ou plus, il faut avant toute chose que les nourissons survivent à leurs premières années. Selon une étude de l'INSEE "La mortalité infantile se concentre dans les premiers jours de la vie : la moitié des enfants décédés avant leur premier anniversaire ont vécu moins d’une semaine."
 
-## Définition : 
+## A) Définition : 
 
 La mortalité infantile est le nombre annuel de décès d’enfants rapporté au nombre de naissances pour une populationn donnée. On parle alors de taux de mortalité infantile. Cet indicateur nous renseigne essentiellement sur le contexte sanitaire des nouveaux-nés dans un territoire. 
 Ainsi, on remarque que la mortalité infantile est plus marquée dans les pays dits "sous-dévellopés" ou "en developpement". Le taux de mortalité infantile a considérablement diminué en Europe, en Amérique du Nord ainsi qu'en Asie du Sud-Est, tandis qu'en Afrique les inégalités se creusent, notamment en Afrique, on dénombre tout de mmême encore en 2018 93 décés pour 1000 naissancess en République centraficaine.
 
-## La mortalité infantile de 2014 à 2018 : un indicateur révélateur de bien des difficultés.
+## B) La mortalité infantile de 2014 à 2018 : un indicateur révélateur de bien des difficultés.
 
 ### Présentation du jeu de donné employé : 
 
@@ -23,13 +23,13 @@ Source : https://www.gapminder.org/data/
 <iframe title="" aria-label="chart" id="datawrapper-chart-5j2Pc" src="https://datawrapper.dwcdn.net/5j2Pc/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="769"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-### Evolution du taux de mortalité infantile de 2014 et 2018 (par 1000 naissances vivantes).
+### 2) Evolution du taux de mortalité infantile de 2014 et 2018 (par 1000 naissances vivantes).
 
 Outil de datavisualissation : Flourish
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5115599"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## L'espérance de vie depuis 1817 
+## A) L'espérance de vie depuis 1817 
 
 ### Présentation du jeu de donnée employé :
 
@@ -40,13 +40,16 @@ Source : https://www.gapminder.org/data/
 <iframe src="https://arouapatteri.trial.opendatasoft.com/explore/embed/dataset/test/table/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
 
-## Evolution de la moyenne d'espérance de vie par pays depuis 1817.
+## B) Evolution de la moyenne d'espérance de vie par pays depuis 1817.
 
 Outil de datavisualisation : Flourish
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5117674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Et qu'en est-il de la France ?
+## 3) Et qu'en est-il de la France ?
+
+
+## A) Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France
 
 ### Présentation du jeu de donné employé :
 
@@ -59,7 +62,6 @@ Outil : Datawrapper
 <iframe title="Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France" aria-label="chart" id="datawrapper-chart-sYNHm" src="https://datawrapper.dwcdn.net/sYNHm/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="789"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-## Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France
 
 L'EVSI (espérence de vie sans incapacité) ou "Espérance de vie en bonne santé" est un indicateur qui  évalue, à la naissance, le nombre d’années qu’une personne peut compter vivre sans souffrir d’incapacité dans les gestes de la vie quotidienne.
 Certes, nous vivons plus longtemps . Mais vivons-nous bien ? 
