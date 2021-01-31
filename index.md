@@ -2,8 +2,8 @@
 
 # Sommaire 
 
-1. [La mortalité infantile](##LaMortalitéInfantile)
-2. [Espérance de vie depuis 1817](##EpéranceDeVieDepuis1817)
+1. [La mortalité infantile à travers le monde depuis 2014](##LaMortalitéInfantile)
+2. [Espérance de vie de 1817 à 2017](##EpéranceDeVieDepuis1817)
 3. [Et en France Alors ?](##EtEnFranceAlors)
 
 
