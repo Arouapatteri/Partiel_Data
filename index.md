@@ -2,8 +2,8 @@
 
 Que l'on soit né en Somalie ou en Norvège, on peut espèrer vivre moins de 25 ans ou plus de 80 ans. Ces cinquantes dernières années ont vue l'espérance de vie augmenter de manière significative, cependant l'écart entre pays développé et pays en voie de développement (voire sous-développé) demeure conséquent.
 
-De même, en fonction de la région du Monde où nous naissons nous avons plus ou moins de chances de vivre longuement. En effet, l’un des principaux déterminants des inégalités d’espérance de vie dans le monde était la mortalité infantile. 
-Pour qu’une population puisse atteindre une moyenne d'âge de 70 ou 80 ans, il faut avant toute chose que les nourissons survivent à leurs premières années. Selon une étude de l'INSEE "La mortalité infantile se concentre dans les premiers jours de la vie : la moitié des enfants décédés avant leur premier anniversaire ont vécu moins d’une semaine."
+De même, en fonction de la région du Monde où nous naissons nous avons plus ou moins de chances de vivre longuement. En effet, l’un des principaux déterminants des inégalités d’espérance de vie à travers le globe demeure le taux de mortalité infantile. 
+Pour qu’une population puisse atteindre une moyenne d'âge de 70 , il faut avant toute chose que les nourissons survivent à leurs premières années. Selon une étude de l'INSEE "La mortalité infantile se concentre dans les premiers jours de la vie : la moitié des enfants décédés avant leur premier anniversaire ont vécu moins d’une semaine."
 
 
 # Définition : 
