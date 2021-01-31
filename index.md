@@ -3,7 +3,7 @@
 # Sommaire 
 
 1. [La mortalité infantile](##LaMortalitéInfantile)
-2. [Première datavisualisation avec l'outil Flourish](##1datavizFlourish)
+2. [L'espérance de vie depuis 1817 ](##LEspéranceDeVieDepuis1817)
 3. [Deuxième datavisualisation avec l'outil Datawrapper](##2datavizDatawrapper)
 4. [Troisième datavisualisation avec l'outil OpenRefine](##3datavizOpenrefine)
 5. [Visualisation de Paris avec Wikidata Query Service](##4queryWikiData)
@@ -41,23 +41,25 @@ De même, en fonction de la région du Monde où nous naissons nous avons plus o
 Pour qu’une population puisse atteindre une moyenne d'âge de 70 ans ou plus, il faut avant toute chose que les nourissons survivent à leurs premières années. Selon une étude de l'INSEE "La mortalité infantile se concentre dans les premiers jours de la vie : la moitié des enfants décédés avant leur premier anniversaire ont vécu moins d’une semaine."
 
 
-## A) L'espérance de vie depuis 1817 
+## 2. L'espérance de vie depuis 1817 
 
+### A - Définition
 
-Tableau de la moyenne d'espèrance de vie en 1817, 1917 et 2017 par pays.
+Selon l'Institut national de la statistique et des études économiques, l'espérance de vie ou espèrance de vie à la naissance "représente la durée de vie moyenne d'une génération fictive soumise aux conditions de mortalité par âge de l'année considérée." Cet indicateur est généralement usité en raison de sa représentativité de l'état de santé d'une population. Néanmoins, il faut preter garde à ne pas confondre l'espèrance de vie avec l'espérance de vie sans incapacité que nous verrons plus en détail par la suite : en effet, il s'agit de deux indicateurs à part entière, qui renvoie à des réalités diverses. 
 
 Source : https://www.gapminder.org/data/ 
 
 <iframe title="Jeu de données - Moyenne d'espérance de vie en 1817, 1917 et 2017 par pays." aria-label="chart" id="datawrapper-chart-yATfN" src="https://datawrapper.dwcdn.net/yATfN/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="764"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-## B) Evolution de la moyenne d'espérance de vie par pays depuis 1817.
+### C - Evolution de la moyenne d'espérance de vie par pays depuis 1817.
 
 Outil de datavisualisation : Flourish
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5117674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## 3) Et qu'en est-il de la France ?
+## 3. Et qu'en est-il de la France ?
+
 
 Source : https://drees2-sgsocialgouv.opendatasoft.com/explore/dataset/3457_esperance-de-vie-sans-incapacite/information/
 
@@ -67,7 +69,7 @@ Outil : Datawrapper
 <iframe title="Jeu de données - Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France" aria-label="chart" id="datawrapper-chart-sYNHm" src="https://datawrapper.dwcdn.net/sYNHm/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="701"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-## B) Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France
+### A) Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France
 
 
 L'EVSI (espérence de vie sans incapacité) ou "Espérance de vie en bonne santé" est un indicateur qui  évalue, à la naissance, le nombre d’années qu’une personne peut compter vivre sans souffrir d’incapacité dans les gestes de la vie quotidienne.
