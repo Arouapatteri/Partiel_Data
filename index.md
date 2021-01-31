@@ -34,8 +34,7 @@ Outil de datavisualisation : Datawrapper
 
 Outil de datavisualissation : Flourish
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/5115599"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/5144443"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## 2. Espérance de vie depuis 1817 dans le Monde 
 
