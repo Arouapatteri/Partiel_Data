@@ -5,6 +5,9 @@
 1. [La mortalité infantile à travers le monde depuis 2014](##LaMortalitéInfantile)
 2. [Espérance de vie de 1817 à 2017 par pays](##EpéranceDeVieDepuis1817)
 3. [Et en France alors ?](##EtEnFranceAlors)
+4. [Revenu National Brut par habitant et espérance de vie.?](##RevenuNationalBrutParHabitantEtEspéranceDeVie.)
+5. [OpenRefine](##OpenRefine)
+6. [Requête Wikidata](##RequêteWikidata)
 
 
 ## 1. La mortalité infantile dans le monde.
@@ -205,7 +208,7 @@ Modification du jeu de donnée de l'EV et de l'EVSI par sexe et par âge en Fran
 ]
 ````
 
-### 6.Wikidata
+### 6.Requête Wikidata
 
 Liste des pays par espèrance de vie (de la plus faible moyenne d'espèrance de vie à la plus elevée) 
 
