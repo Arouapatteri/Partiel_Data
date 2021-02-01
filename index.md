@@ -217,3 +217,4 @@ SELECT DISTINCT ?pays ?paysLabel ?esp_rance_de_vie WHERE
 }
 ORDER BY asc (?esp_rance_de_vie)
 ````
+Résultat de la requête disponible ici : https://w.wiki/xEM
