@@ -95,6 +95,8 @@ Pour qu’une population puisse atteindre une moyenne d'âge de 70 ans ou plus, 
 
 ### A - Définition 
 
+Selon l'Organisation de Coopération et de Développement Économiques, le Revenu National Brut par habitant est défini comme le " PIB plus les revenus nets reçus de l'étranger pour la rémunération des salariés, la propriété et les impôts et subventions nets sur la production". 
+
 <iframe title="Jeu de données - Moyenne du Revenu National Brut (RNB) par Habitant dans le Monde" aria-label="chart" id="datawrapper-chart-uLHg4" src="https://datawrapper.dwcdn.net/uLHg4/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="948"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
