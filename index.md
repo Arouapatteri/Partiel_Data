@@ -110,7 +110,7 @@ Outil : Datawrapper
 
 Modification des jeux de données via OpenRefine :  
 
-Les jeux de données employées pour les datavisualisatiosn ci-dessus étant relativement bien structurés je n'ai pas eu recours à OpenRefine de façon avancée, néanmoins le nombre de donnée étant conséquent cet outil m'a été indispensable pour supprimer rapidement les cellules qui ne contenaient aucune entrée, de même dans le cadre de certains jeu de données les nombres décimaux ( exemple : 12, 6) étaient perçues comme des entiers positifs j'ai donc remplacé l'entiereté des "," par des "." et ainsi les valeurs étaient lues comme des entiers. Par le biais d'OpenRefine je me suis également assurée de n'avoir aucun doublons. 
+Les jeux de données employées pour les datavisualisatiosn ci-dessus étant relativement bien structurés je n'ai pas eu recours à OpenRefine de façon avancée, néanmoins le nombre de donnée étant conséquent cet outil m'a été indispensable pour supprimer rapidement les cellules qui ne contenaient aucune entrée (aucune donnée pour certains pays à certaines dates) , de même dans le cadre de certains jeu de données les nombres décimaux ( exemple : 12, 6) étaient perçues comme des entiers positifs j'ai donc remplacé l'entiereté des "," par des "." et ainsi les valeurs étaient lues comme des entiers. Par le biais d'OpenRefine je me suis également assurée de n'avoir aucun doublons. 
 
 Modification du jeu de données sur la mortalité infantile par pays : 
 
@@ -205,4 +205,4 @@ Modification du jeu de donnée de l'EV et de l'EVSI par sexe et par âge en Fran
 ]
 ````
 
-### 6.Wikidataa
+### 6.Wikidata
