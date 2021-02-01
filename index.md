@@ -206,3 +206,15 @@ Modification du jeu de donnée de l'EV et de l'EVSI par sexe et par âge en Fran
 ````
 
 ### 6.Wikidata
+
+Liste des pays par espèrance de vie (de la plus faible moyenne d'espèrance de vie à la plus elevée) 
+
+````sparql
+SELECT DISTINCT ?pays ?paysLabel ?esp_rance_de_vie WHERE 
+{
+  ?pays wdt:P31 wd:Q6256.
+  ?pays wdt:P2250 ?esp_rance_de_vie.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "fr". }
+}
+ORDER BY asc (?esp_rance_de_vie)
+````
