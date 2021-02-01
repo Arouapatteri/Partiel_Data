@@ -64,7 +64,7 @@ Selon l'Institut national de la statistique et des études économiques, l'espé
 Outil : Flourish
 
 Ce modèle se prête parfaitement à mon jeu de données dans la mesure où je souhaitais superposer les trois années (1817, 1917 et 2017) afin de mettre en évidence l'augmentation de l'espérance de vie. L'espérancee de vie s'est vue rallonger dans la plupart des pays du monde, néanmoins on constate de fortes disparités, l'Afrique demeure à distance des autres continents. Ainsi, la progression de l’espérance de vie moyenne dissimule des évolutions différentes selon les continents.
-L'Afrique Subsharienne encore une fois se distingue par une moyenne d'espèrance de vie relativement faible, avec une moyenne de 51,6 ans en Republique centraficaine.Le continent est sujet à de grandes disparités, une moyenne d'espérance de vie plus faible au sud et plus elevé pour les habitants de l'Afrique du Nord (env 75 ans)
+L'Afrique Subsharienne encore une fois se distingue par une moyenne d'espèrance de vie relativement faible, avec une moyenne de 51,6 ans en Republique centraficaine. Le continent est sujet à de grandes disparités, une moyenne d'espérance de vie plus faible au sud et plus elevé pour les habitants de l'Afrique du Nord (env 75 ans).
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5117674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
