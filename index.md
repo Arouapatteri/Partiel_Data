@@ -12,7 +12,7 @@
 ### A - Définition 
 
 La mortalité infantile est le nombre annuel de décès d’enfants rapporté au nombre de naissances pour une populationn donnée. On parle alors de taux de mortalité infantile. Cet indicateur nous renseigne essentiellement sur le contexte sanitaire des nouveaux-nés dans un territoire. 
-Ainsi, on remarque que la mortalité infantile est plus marquée dans les pays dits "sous-dévellopés" ou "en développement". Le taux de mortalité infantile a considérablement diminué en Europe, en Amérique du Nord ainsi qu'en Asie du Sud-Est, tandis qu'en Afrique les inégalités se creusent, notamment en Afrique centrale où l'on dénombre tout de même encore en 93 décés pour 1000 naissances en République centraficaine en 2018. Rappelons que l’un des principaux déterminants des inégalités d’espérance de vie à travers le globe demeure le taux de mortalité infantile. 
+
 
 ### B - La mortalité infantile de 2014 à 2018 : un indicateur révélateur de bien des difficultés démographiques et socio-économiques.
 
@@ -36,6 +36,10 @@ Outil de datavisualissation : Flourish
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5144443"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+### E - Analyse 
+
+Ainsi, on remarque que la mortalité infantile est plus marquée dans les pays dits "sous-dévellopés" ou "en développement". Le taux de mortalité infantile a considérablement diminué en Europe, en Amérique du Nord ainsi qu'en Asie du Sud-Est, tandis qu'en Afrique les inégalités se creusent, notamment en Afrique centrale où l'on dénombre tout de même encore en 93 décés pour 1000 naissances en République centraficaine en 2018, en Somalie le taux de mortalité infantile n'a marqué aucune baisse de 2014 à 2018; néamoins il n'y a pas eu de regression, globalement la mortalité en 2018 est en baisse dans toutes les régions du monde, même s'il en demeure que la progression est plus lente en Afrique. Rappelons que l’un des principaux déterminants des inégalités d’espérance de vie à travers le globe demeure le taux de mortalité infantile. 
+
 ## 2. Espérance de vie depuis 1817 dans le Monde 
 
 ### A - Définition EV
@@ -50,7 +54,7 @@ Source : https://www.gapminder.org/data/
 ### C - Column Chart (stacked) de l'évolution de la moyenne d'espérance de vie par pays depuis 1817.
 
 Outil de datavisualisation : Flourish
-Ce modèle se prête parfaitement à mon jeu de données dans la mesure où je souhaitais superposer les trois années (1817, 1917, 2017) afin de mettre en évidence l'augmentation de l'espérance de vie. L'espérande de vie s'est vue rallonger dans tous les pays du monde, néanmoins on constate de fortes disparités, l'Afrique demeure à distance des autres continents.
+Ce modèle se prête parfaitement à mon jeu de données dans la mesure où je souhaitais superposer les trois années (1817, 1917, 2017) afin de mettre en évidence l'augmentation de l'espérance de vie. L'espérande de vie s'est vue rallonger dans la plupart des pays du monde, néanmoins on constate de fortes disparités, l'Afrique demeure à distance des autres continents.
 <div class="flourish-embed flourish-chart" data-src="visualisation/5117674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### D - Carte chloroplèthe de la moyenne d'espérance de vie par pays en 2017.
@@ -87,6 +91,8 @@ De même, en fonction de la région du Monde où nous naissons nous avons plus o
 
 Pour qu’une population puisse atteindre une moyenne d'âge de 70 ans ou plus, il faut avant toute chose que les nourissons survivent à leurs premières années. Selon une étude de l'INSEE "La mortalité infantile se concentre dans les premiers jours de la vie : la moitié des enfants décédés avant leur premier anniversaire ont vécu moins d’une semaine."
 
+
+La progression de l’espérance de vie moyenne dissimule des évolutions différentes selon les continents.
 ### 4.OpenRefine 
 
 ### 5.Wikidataa
