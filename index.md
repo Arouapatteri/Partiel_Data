@@ -97,7 +97,7 @@ Ce modèle s'est avéré particulièrement représentatif dans la mesure où mon
    Que l'on soit né en Somalie ou en Norvège, on peut espèrer vivre moins de 25 ans ou plus de 80 ans. Ces dernières années ont vue l'espérance de vie augmenter de manière significative, cependant l'écart entre pays développés et pays en voie de développement (voire sous-développés) demeure conséquent.
 De même, en fonction de la région du Monde où nous naissons nous avons plus ou moins de chances de vivre longuement. En effet, l’un des principaux déterminants des inégalités d’espérance de vie à travers le globe demeure le taux de mortalité infantile. 
 
-### 4. Le Revenu National Brut par habitant et l'espérance de vie.
+### 4. Revenu National Brut par habitant rime avec espérance de vie.
 
 ### A - Définition 
 
@@ -112,6 +112,9 @@ Outil : Datawrapper
 
 <iframe title=" Revenu National Brut par Habitant ($ courants)" aria-label="Map" id="datawrapper-chart-UEH0h" src="https://datawrapper.dwcdn.net/UEH0h/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="368"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+On remarque que les pays dont le RNB est le plus élevé sont ceux qui disposent de la moyenne d'espérance de vie la plus importante tandis que les pays dont le RNB est le plus bas sont ceux où l'espèrance de vie est la plus faible. En effet, les 10 pays où l’espérance de vie est la plus basse sont tous localisés en Afrique subsaharienne. Ces pays sont également marqués par la malnutrition, les épidémies, la pauvreté et les guerres.
+Ainsi, le RNB témoigne du niveau de vie de ces populations, plus le niveau de vie est conséquent plus les facteurs de longevité seront notables, parmi ces facteurs on note la sécurité, la qualité de la nutrition, l'accès aux soins ou encore la qualité des infrastructures. 
 
 ### 5.OpenRefine 
 
