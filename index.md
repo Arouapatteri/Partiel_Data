@@ -230,20 +230,6 @@ ORDER BY asc (?esperance_de_vie)
 ````
 Résultat de la requête disponible ici : https://w.wiki/xEM
 
-Liste des pays par taux d'alphabétisation (du plus bas taux d'alphabétisation au plus élevé) 
-
-
-````sparql
-SELECT DISTINCT ?pays ?paysLabel ?taux_d_alphabetisation WHERE 
-{
-  ?pays wdt:P31 wd:Q6256.
-  ?pays wdt:P6897 ?taux_d_alphabetisation.
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "fr". }
-}
- ORDER BY asc (?taux_d_alphabetisation)
- ````
- 
- Résultat de la requête disponible ici : https://w.wiki/xEm
  
  Liste des pays par produit international brut (PIB) ( du plus bas au  plus élevé) 
  
@@ -258,3 +244,20 @@ SELECT DISTINCT ?pays ?paysLabel ?taux_d_alphabetisation WHERE
   ````
   
   Résultat de la requête disponible ici : https://w.wiki/xEw
+  
+  Pour aller plus loin...
+  
+  Liste des pays par taux d'alphabétisation (du plus bas taux d'alphabétisation au plus élevé) 
+
+
+````sparql
+SELECT DISTINCT ?pays ?paysLabel ?taux_d_alphabetisation WHERE 
+{
+  ?pays wdt:P31 wd:Q6256.
+  ?pays wdt:P6897 ?taux_d_alphabetisation.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "fr". }
+}
+ ORDER BY asc (?taux_d_alphabetisation)
+ ````
+ 
+ Résultat de la requête disponible ici : https://w.wiki/xEm
