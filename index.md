@@ -5,8 +5,8 @@
 1. [La mortalité infantile à travers le monde depuis 2014](##LaMortalitéInfantile)
 2. [Espérance de vie de 1817 à 2017 par pays](##EpéranceDeVieDepuis1817)
 3. [Et en France alors ?](##EtEnFranceAlors)
-4. [Revenu National Brut par habitant et espérance de vie.?](##RevenuNationalBrutParHabitantEtEspéranceDeVie.)
-5. [OpenRefine](##OpenRefine)
+4. [Revenu National Brut par habitant et espérance de vie](##RevenuNationalBrutParHabitantEtEspéranceDeVie.)
+5. [Modification des jeux de données via OpenRefine](##ModificationDesJeuxDeDonnéesViaOpenRefine)
 6. [Requête Wikidata](##RequêteWikidata)
 
 
@@ -21,21 +21,20 @@ La mortalité infantile est le nombre annuel de décès d’enfants rapporté au
 
 Outil : Datawrapper
 
-Source : https://www.gapminder.org/data/ 
 
 <iframe title="Jeu de données - Taux de mortalité infantile de 2014 à 2018 par pays." aria-label="chart" id="datawrapper-chart-5j2Pc" src="https://datawrapper.dwcdn.net/5j2Pc/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="794"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 ### C - Carte choroplèthe du taux de mortalité infantile en 2018 (par 1000 naissances vivantes) par pays.
 
-Outil de datavisualisation : Datawrapper
+Outil : Datawrapper
 
 <iframe title="Taux de mortalité infantile en 2018 par pays (par 1 000 naissances vivantes)" aria-label="Map" id="datawrapper-chart-9egap" src="https://datawrapper.dwcdn.net/9egap/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 ### D - Column chart (grouped) de l'évolution du taux de mortalité infantile de 2014 et 2018 (par 1000 naissances vivantes).
 
-Outil de datavisualissation : Flourish
+Outil : Flourish
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5144443"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -49,14 +48,14 @@ Ainsi, on remarque que la mortalité infantile est plus marquée dans les pays d
 
 Selon l'Institut national de la statistique et des études économiques, l'espérance de vie ou espèrance de vie à la naissance "représente la durée de vie moyenne d'une génération fictive soumise aux conditions de mortalité par âge de l'année considérée." Cet indicateur est généralement usité en raison de sa représentativité de l'état de santé d'une population. Néanmoins, il faut preter garde à ne pas confondre l'espèrance de vie avec l'espérance de vie sans incapacité que nous verrons plus en détail par la suite : en effet, il s'agit de deux indicateurs à part entière, qui renvoie à des réalités diverses. 
 
-Source : https://www.gapminder.org/data/ 
 
 <iframe title="Jeu de données - Moyenne d'espérance de vie en 1817, 1917 et 2017 par pays." aria-label="chart" id="datawrapper-chart-yATfN" src="https://datawrapper.dwcdn.net/yATfN/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="764"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 ### C - Column Chart (stacked) de l'évolution de la moyenne d'espérance de vie par pays depuis 1817.
 
-Outil de datavisualisation : Flourish
+Outil : Flourish
+
 Ce modèle se prête parfaitement à mon jeu de données dans la mesure où je souhaitais superposer les trois années (1817, 1917, 2017) afin de mettre en évidence l'augmentation de l'espérance de vie. L'espérande de vie s'est vue rallonger dans la plupart des pays du monde, néanmoins on constate de fortes disparités, l'Afrique demeure à distance des autres continents. Ainsi, la progression de l’espérance de vie moyenne dissimule des évolutions différentes selon les continents.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5117674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -74,10 +73,7 @@ Ce modèle se prête parfaitement à mon jeu de données dans la mesure où je s
 L'EVSI (espérence de vie sans incapacité) ou "Espérance de vie en bonne santé" est un indicateur qui  évalue, à la naissance, le nombre d’années qu’une personne peut compter vivre sans souffrir d’incapacité dans les gestes de la vie quotidienne.
 Selon la Direction de la recherche, des études, de l'évaluation et des statistiques (DREES) l'espérance de vie en bonne santé s'élève en France à 64,5 ans pour les femmes et 63,4 pour le sexe masculin en 2018.
 
-Source : https://drees2-sgsocialgouv.opendatasoft.com/explore/dataset/3457_esperance-de-vie-sans-incapacite/information/
-
 Outil : Datawrapper
-
 
 <iframe title="Jeu de données - Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France" aria-label="chart" id="datawrapper-chart-sYNHm" src="https://datawrapper.dwcdn.net/sYNHm/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="701"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
