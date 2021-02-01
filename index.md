@@ -114,7 +114,7 @@ Les jeux de données employées pour les datavisualisatiosn ci-dessus étant rel
 
 Modification du jeu de données sur la mortalité infantile par pays : 
 
-` ` ` 
+````sparql
 [
   {
     "op": "core/row-removal",
@@ -146,7 +146,7 @@ Modification du jeu de données sur la mortalité infantile par pays :
   }
 ]
 
-` ` ` 
+````
 
 
 ### 6.Wikidataa
