@@ -108,7 +108,45 @@ Outil : Datawrapper
 
 ### 5.OpenRefine 
 
-Modification des jeux de données disponibles ici : 
+Modification des jeux de données via OpenRefine :  
+
+Les jeux de données employées pour les datavisualisatiosn ci-dessus étant relativement bien structurés je n'ai pas eu recours à OpenRefine de façon avancée, néanmoins le nombre de donnée étant conséquent cet outil m'a été indispensable pour supprimer rapidement les cellules qui ne contenaient aucune entrée, de même dans le cadre de certains jeu de données les nombres décimaux ( exemple : 12, 6) étaient perçues comme des entiers positifs j'ai donc remplacé l'entiereté des "," par des "." et ainsi les valeurs étaient lues comme des entiers. Par le biais d'OpenRefine je me suis également assurée de n'avoir aucun doublons. 
+
+Modification du jeu de données sur la mortalité infantile par pays : 
+
+` ` ` 
+[
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Valeurs vides par colonne",
+          "expression": "filter(row.columnNames,cn,isBlank(cells[cn].value))",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "1800",
+                "l": "1800"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  }
+]
+
+` ` ` 
 
 
 ### 6.Wikidataa
