@@ -94,11 +94,21 @@ Pour qu’une population puisse atteindre une moyenne d'âge de 70 ans ou plus, 
 
 ### 4. Revenu National Brut par habitant et espérance de vie.
 
+### A - Définition 
+
+<iframe title="Jeu de données - Moyenne du Revenu National Brut (RNB) par Habitant dans le Monde" aria-label="chart" id="datawrapper-chart-uLHg4" src="https://datawrapper.dwcdn.net/uLHg4/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="948"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+### B - Carte Chloroplèthe du revenu national brut par habitant et espérance de vie 
+
 Outil : Datawrapper 
 
 <iframe title=" Revenu National Brut par Habitant ($ courants)" aria-label="Map" id="datawrapper-chart-UEH0h" src="https://datawrapper.dwcdn.net/UEH0h/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="368"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 ### 5.OpenRefine 
+
+Modification des jeux de données disponibles ici : 
+
 
 ### 6.Wikidataa
