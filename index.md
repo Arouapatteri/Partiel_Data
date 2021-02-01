@@ -5,7 +5,7 @@
 1. [La mortalité infantile à travers le monde depuis 2014](##LaMortalitéInfantile)
 2. [Espérance de vie de 1817 à 2017 par pays](##EpéranceDeVieDepuis1817)
 3. [Et en France alors ?](##EtEnFranceAlors)
-4. [Revenu National Brut par habitant et espérance de vie](##RevenuNationalBrutParHabitantEtEspéranceDeVie.)
+4. [Le Revenu National Brut par habitant et l'espérance de vie](##RevenuNationalBrutParHabitantEtEspéranceDeVie.)
 5. [Modification des jeux de données via OpenRefine](##ModificationDesJeuxDeDonnéesViaOpenRefine)
 6. [Requête Wikidata](##RequêteWikidata)
 
@@ -91,7 +91,7 @@ De même, en fonction de la région du Monde où nous naissons nous avons plus o
 
 Pour qu’une population puisse atteindre une moyenne d'âge de 70 ans ou plus, il faut avant toute chose que les nourissons survivent à leurs premières années. Selon une étude de l'INSEE "La mortalité infantile se concentre dans les premiers jours de la vie : la moitié des enfants décédés avant leur premier anniversaire ont vécu moins d’une semaine."
 
-### 4. Revenu National Brut par habitant et espérance de vie.
+### 4. Le Revenu National Brut par habitant et l'espérance de vie.
 
 ### A - Définition 
 
