@@ -40,13 +40,20 @@ Outil : Flourish
 
 ### E - Analyse 
 
-Ainsi, on remarque que la mortalité infantile est plus marquée dans les pays dits "sous-dévellopés" ou "en développement". Le taux de mortalité infantile a considérablement diminué en Europe, en Amérique du Nord ainsi qu'en Asie du Sud-Est, tandis qu'en Afrique les inégalités se creusent, notamment en Afrique centrale où l'on dénombre tout de même encore en 93 décés pour 1000 naissances en République centraficaine en 2018, en Somalie le taux de mortalité infantile n'a marqué aucune baisse de 2014 à 2018; néamoins il n'y a pas eu de regression, globalement la mortalité en 2018 est en baisse dans toutes les régions du monde, même s'il en demeure que la progression est plus lente en Afrique. Rappelons que l’un des principaux déterminants des inégalités d’espérance de vie à travers le globe demeure le taux de mortalité infantile. 
+Ainsi, on remarque que la mortalité infantile est plus marquée dans les pays dits "sous-développés" ou "en développement". Le taux de mortalité infantile a considérablement diminué en Europe, en Amérique du Nord ainsi qu'en Asie du Sud-Est, tandis qu'en Afrique les inégalités se creusent, notamment en Afrique subsaharienne où l'on dénombre tout de même encore 93 décés pour 1000 naissances en République centraficaine en 2018. 
+En Somalie le taux de mortalité infantile n'a marqué aucune baisse de 2014 à 2018; néanmoins il n'y a pas eu de régression, globalement la mortalité en 2018 est en baisse dans toutes les régions du monde, même s'il en demeure que la progression est plus lente en Afrique. 
+
+Rappelons que l’un des principaux déterminants des inégalités d’espérance de vie à travers le globe demeure le taux de mortalité infantile. 
+
+En effet, pour qu’une population puisse atteindre une moyenne d’âge de 70 ans ou plus, il faut avant toute chose que les nourissons survivent à leurs premières années. Selon une étude de l’INSEE “ La mortalité infantile se concentre dans les premiers jours de la vie : la moitié des enfants décédés avant leur premier anniversaire ont vécu moins d’une semaine. ”
+
+
 
 ## 2. Espérance de vie depuis 1817 dans le Monde 
 
 ### A - Définition EV
 
-Selon l'Institut national de la statistique et des études économiques, l'espérance de vie ou espèrance de vie à la naissance "représente la durée de vie moyenne d'une génération fictive soumise aux conditions de mortalité par âge de l'année considérée." Cet indicateur est généralement usité en raison de sa représentativité de l'état de santé d'une population. Néanmoins, il faut preter garde à ne pas confondre l'espèrance de vie avec l'espérance de vie sans incapacité que nous verrons plus en détail par la suite : en effet, il s'agit de deux indicateurs à part entière, qui renvoie à des réalités diverses. 
+Selon l'Institut national de la statistique et des études économiques, l'espérance de vie ou " espèrance de vie à la naissance " représente la durée de vie moyenne d'une génération fictive soumise aux conditions de mortalité par âge de l'année considérée." Cet indicateur est généralement usité en raison de sa représentativité de l'état de santé d'une population. Néanmoins, il faut prêter garde à ne pas confondre " l'espèrance de vie " avec " l'espérance de vie sans incapacité (EVSI)" que nous verrons plus en détail par la suite : en effet, il s'agit de deux indicateurs à part entière, qui renvoie à des réalités diverses. 
 
 
 <iframe title="Jeu de données - Moyenne d'espérance de vie en 1817, 1917 et 2017 par pays." aria-label="chart" id="datawrapper-chart-yATfN" src="https://datawrapper.dwcdn.net/yATfN/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="764"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
@@ -56,7 +63,8 @@ Selon l'Institut national de la statistique et des études économiques, l'espé
 
 Outil : Flourish
 
-Ce modèle se prête parfaitement à mon jeu de données dans la mesure où je souhaitais superposer les trois années (1817, 1917, 2017) afin de mettre en évidence l'augmentation de l'espérance de vie. L'espérande de vie s'est vue rallonger dans la plupart des pays du monde, néanmoins on constate de fortes disparités, l'Afrique demeure à distance des autres continents. Ainsi, la progression de l’espérance de vie moyenne dissimule des évolutions différentes selon les continents.
+Ce modèle se prête parfaitement à mon jeu de données dans la mesure où je souhaitais superposer les trois années (1817, 1917 et 2017) afin de mettre en évidence l'augmentation de l'espérance de vie. L'espérancee de vie s'est vue rallonger dans la plupart des pays du monde, néanmoins on constate de fortes disparités, l'Afrique demeure à distance des autres continents. Ainsi, la progression de l’espérance de vie moyenne dissimule des évolutions différentes selon les continents.
+L'Afrique Subsharienne encore une fois se distingue par une moyenne d'espèrance de vie relativement faible, avec une moyenne de 51,6 ans en Republique centraficaine.Le continent est sujet à de grandes disparités, une moyenne d'espérance de vie plus faible au sud et plus elevé pour les habitants de l'Afrique du Nord (env 75 ans)
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5117674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -88,8 +96,6 @@ Ce modèle s'est avéré particulièrement représentatif dans la mesure où mon
 
    Que l'on soit né en Somalie ou en Norvège, on peut espèrer vivre moins de 25 ans ou plus de 80 ans. Ces dernières années ont vue l'espérance de vie augmenter de manière significative, cependant l'écart entre pays développés et pays en voie de développement (voire sous-développés) demeure conséquent.
 De même, en fonction de la région du Monde où nous naissons nous avons plus ou moins de chances de vivre longuement. En effet, l’un des principaux déterminants des inégalités d’espérance de vie à travers le globe demeure le taux de mortalité infantile. 
-
-Pour qu’une population puisse atteindre une moyenne d'âge de 70 ans ou plus, il faut avant toute chose que les nourissons survivent à leurs premières années. Selon une étude de l'INSEE "La mortalité infantile se concentre dans les premiers jours de la vie : la moitié des enfants décédés avant leur premier anniversaire ont vécu moins d’une semaine."
 
 ### 4. Le Revenu National Brut par habitant et l'espérance de vie.
 
