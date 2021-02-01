@@ -73,6 +73,11 @@ L'Afrique Subsharienne encore une fois se distingue par une moyenne d'espèrance
 <iframe title="Moyenne de l'espérance de vie dans le Monde en 2017 " aria-label="Map" id="datawrapper-chart-XzgEi" src="https://datawrapper.dwcdn.net/XzgEi/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="368"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+### E - Analyse 
+
+Que l'on soit né en Somalie ou en Norvège, on peut espèrer vivre moins de 25 ans ou plus de 80 ans. Ces dernières années ont vue l'espérance de vie augmenter de manière significative, cependant l'écart entre pays développés et pays en voie de développement (voire sous-développés) demeure conséquent.
+De même, en fonction de la région du Monde où nous naissons nous avons plus ou moins de chances de vivre longuement. En effet, l’un des principaux déterminants des inégalités d’espérance de vie à travers le globe demeure le taux de mortalité infantile. 
+
 
 ## 3. Et en France Alors ? Certes, nous vivons plus longtemps. Mais vivons-nous bien ?
 
@@ -92,10 +97,6 @@ Ce modèle s'est avéré particulièrement représentatif dans la mesure où mon
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5131949"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### C - Analyse 
-
-   Que l'on soit né en Somalie ou en Norvège, on peut espèrer vivre moins de 25 ans ou plus de 80 ans. Ces dernières années ont vue l'espérance de vie augmenter de manière significative, cependant l'écart entre pays développés et pays en voie de développement (voire sous-développés) demeure conséquent.
-De même, en fonction de la région du Monde où nous naissons nous avons plus ou moins de chances de vivre longuement. En effet, l’un des principaux déterminants des inégalités d’espérance de vie à travers le globe demeure le taux de mortalité infantile. 
 
 ### 4. Revenu National Brut par habitant rime avec espérance de vie.
 
