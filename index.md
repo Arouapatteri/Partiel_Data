@@ -233,3 +233,17 @@ SELECT DISTINCT ?pays ?paysLabel ?taux_d_alphab_tisation WHERE
  ````
  
  Résultat de la requête disponible ici : https://w.wiki/xEm
+ 
+ Liste des pays par produit international brut (PIB) ( du plus bas au  plus élevé) 
+ 
+  ````sparql
+ SELECT DISTINCT ?pays ?paysLabel ?produit_intérieur_brut_nominal WHERE 
+{
+  ?pays wdt:P31 wd:Q6256.
+  ?pays wdt:P2131 ?produit_intérieur_brut_nominal.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "fr". }
+}
+ ORDER BY asc (?produit_intérieur_brut_nominal)
+  ````
+  
+  Résultat de la requête disponible ici : https://w.wiki/xEw
