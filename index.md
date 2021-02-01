@@ -54,7 +54,8 @@ Source : https://www.gapminder.org/data/
 ### C - Column Chart (stacked) de l'évolution de la moyenne d'espérance de vie par pays depuis 1817.
 
 Outil de datavisualisation : Flourish
-Ce modèle se prête parfaitement à mon jeu de données dans la mesure où je souhaitais superposer les trois années (1817, 1917, 2017) afin de mettre en évidence l'augmentation de l'espérance de vie. L'espérande de vie s'est vue rallonger dans la plupart des pays du monde, néanmoins on constate de fortes disparités, l'Afrique demeure à distance des autres continents.
+Ce modèle se prête parfaitement à mon jeu de données dans la mesure où je souhaitais superposer les trois années (1817, 1917, 2017) afin de mettre en évidence l'augmentation de l'espérance de vie. L'espérande de vie s'est vue rallonger dans la plupart des pays du monde, néanmoins on constate de fortes disparités, l'Afrique demeure à distance des autres continents. Ainsi, la progression de l’espérance de vie moyenne dissimule des évolutions différentes selon les continents.
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/5117674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### D - Carte chloroplèthe de la moyenne d'espérance de vie par pays en 2017.
@@ -91,8 +92,13 @@ De même, en fonction de la région du Monde où nous naissons nous avons plus o
 
 Pour qu’une population puisse atteindre une moyenne d'âge de 70 ans ou plus, il faut avant toute chose que les nourissons survivent à leurs premières années. Selon une étude de l'INSEE "La mortalité infantile se concentre dans les premiers jours de la vie : la moitié des enfants décédés avant leur premier anniversaire ont vécu moins d’une semaine."
 
+### 4. Revenu National Brut par habitant et espérance de vie.
 
-La progression de l’espérance de vie moyenne dissimule des évolutions différentes selon les continents.
-### 4.OpenRefine 
+Outil : Datawrapper 
 
-### 5.Wikidataa
+<iframe title=" Revenu National Brut par Habitant ($ courants)" aria-label="Map" id="datawrapper-chart-UEH0h" src="https://datawrapper.dwcdn.net/UEH0h/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="368"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+### 5.OpenRefine 
+
+### 6.Wikidataa
