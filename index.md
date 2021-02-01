@@ -218,3 +218,18 @@ SELECT DISTINCT ?pays ?paysLabel ?esp_rance_de_vie WHERE
 ORDER BY asc (?esp_rance_de_vie)
 ````
 Résultat de la requête disponible ici : https://w.wiki/xEM
+
+Liste des pays par taux d'alphabétisation (du plus bas taux d'alphabétisation au plus élevé) 
+
+
+````sparql
+SELECT DISTINCT ?pays ?paysLabel ?taux_d_alphab_tisation WHERE 
+{
+  ?pays wdt:P31 wd:Q6256.
+  ?pays wdt:P6897 ?taux_d_alphab_tisation.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "fr". }
+}
+ ORDER BY asc (?taux_d_alphab_tisation)
+ ````
+ 
+ Résultat de la requête disponible ici : https://w.wiki/xEm
