@@ -209,13 +209,13 @@ Modification du jeu de donnée de l'EV et de l'EVSI par sexe et par âge en Fran
 Liste des pays par espèrance de vie (de la plus faible moyenne d'espèrance de vie à la plus elevée) 
 
 ````sparql
-SELECT DISTINCT ?pays ?paysLabel ?esp_rance_de_vie WHERE 
+SELECT DISTINCT ?pays ?paysLabel ?esperance_de_vie WHERE 
 {
   ?pays wdt:P31 wd:Q6256.
-  ?pays wdt:P2250 ?esp_rance_de_vie.
+  ?pays wdt:P2250 ?esperance_de_vie.
   SERVICE wikibase:label { bd:serviceParam wikibase:language "fr". }
 }
-ORDER BY asc (?esp_rance_de_vie)
+ORDER BY asc (?esperance_de_vie)
 ````
 Résultat de la requête disponible ici : https://w.wiki/xEM
 
@@ -223,13 +223,13 @@ Liste des pays par taux d'alphabétisation (du plus bas taux d'alphabétisation 
 
 
 ````sparql
-SELECT DISTINCT ?pays ?paysLabel ?taux_d_alphab_tisation WHERE 
+SELECT DISTINCT ?pays ?paysLabel ?taux_d_alphabetisation WHERE 
 {
   ?pays wdt:P31 wd:Q6256.
-  ?pays wdt:P6897 ?taux_d_alphab_tisation.
+  ?pays wdt:P6897 ?taux_d_alphabetisation.
   SERVICE wikibase:label { bd:serviceParam wikibase:language "fr". }
 }
- ORDER BY asc (?taux_d_alphab_tisation)
+ ORDER BY asc (?taux_d_alphabetisation)
  ````
  
  Résultat de la requête disponible ici : https://w.wiki/xEm
@@ -237,13 +237,13 @@ SELECT DISTINCT ?pays ?paysLabel ?taux_d_alphab_tisation WHERE
  Liste des pays par produit international brut (PIB) ( du plus bas au  plus élevé) 
  
   ````sparql
- SELECT DISTINCT ?pays ?paysLabel ?produit_intérieur_brut_nominal WHERE 
+ SELECT DISTINCT ?pays ?paysLabel ?produit_interieur_brut_nominal WHERE 
 {
   ?pays wdt:P31 wd:Q6256.
-  ?pays wdt:P2131 ?produit_intérieur_brut_nominal.
+  ?pays wdt:P2131 ?produit_interieur_brut_nominal.
   SERVICE wikibase:label { bd:serviceParam wikibase:language "fr". }
 }
- ORDER BY asc (?produit_intérieur_brut_nominal)
+ ORDER BY asc (?produit_interieur_brut_nominal)
   ````
   
   Résultat de la requête disponible ici : https://w.wiki/xEw
