@@ -264,7 +264,7 @@ SELECT DISTINCT ?pays ?paysLabel ?taux_d_alphabetisation WHERE
  Résultat de la requête disponible ici : https://w.wiki/xEm
  
  
- ## 7. Conclusion <a id="T7"></a>
+ ### 7. Conclusion <a id="T7"></a>
 
 Le processus a véritablement été formateur dans la mesure où nous sommes rarement confrontés à des données "brutes" il a fallu dans un premier temps avant toute chose choisir les données : travail qui est bien plus fastidieux qu'il n'y parait puis ensuite les étudier, les préparer et les nettoyer avant de les enrichir et de les publier dans un format longuement réflechi et propice à l'analyse des données mises en avant. 
 
