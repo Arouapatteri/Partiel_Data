@@ -2,13 +2,6 @@
 
 # Sommaire 
 
-1. [La mortalité infantile à travers le monde depuis 2014](##LaMortalitéInfantile)
-2. [Espérance de vie de 1817 à 2017 par pays](##EpéranceDeVieDepuis1817)
-3. [Et en France alors ?](##EtEnFranceAlors)
-4. [Le Revenu National Brut par habitant et l'espérance de vie](##RevenuNationalBrutParHabitantEtEspéranceDeVie.)
-5. [Modification des jeux de données via OpenRefine](##ModificationDesJeuxDeDonnéesViaOpenRefine)
-6. [Requête Wikidata](##RequêteWikidata)
-
 1. [La mortalité infantile à travers le monde depuis 2014](#T1)
 2. [Espérance de vie de 1817 à 2017 par pays](#T2)
 3. [Et en France alors ?](#T3)
@@ -16,8 +9,6 @@
 5. [Modification des jeux de données via OpenRefine](#T5)
 6. [Requête Wikidata](#T6)
 7. [Conclusion](#T7)
-
-
 
 
 ## La mortalité infantile à travers le monde depuis 2014 <a id="T1"></a>
