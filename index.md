@@ -15,7 +15,7 @@
 
 ### A - Définition 
 
-La mortalité infantile est le nombre annuel de décès d’enfants rapporté au nombre de naissances pour une populationn donnée. On parle alors de taux de mortalité infantile. Cet indicateur nous renseigne essentiellement sur le contexte sanitaire des nouveaux-nés dans un territoire. 
+La mortalité infantile est le nombre annuel de décès d’enfants rapporté au nombre de naissances pour une population donnée. On parle alors de taux de mortalité infantile. Cet indicateur nous renseigne essentiellement sur le contexte sanitaire des nouveaux-nés dans un territoire. 
 
 
 ### B - La mortalité infantile de 2014 à 2018 : un indicateur révélateur de bien des difficultés démographiques et socio-économiques.
