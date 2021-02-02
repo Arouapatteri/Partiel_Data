@@ -10,9 +10,17 @@
 6. [Requête Wikidata](##RequêteWikidata)
 
 [La mortalité infantile à travers le monde depuis 2014](#T1)
+[Espérance de vie de 1817 à 2017 par pays](#T2)
+[Et en France alors ?](#T3)
+[Le Revenu National Brut par habitant et l'espérance de vie](#T4)
+[Modification des jeux de données via OpenRefine](#T5)
+[Requête Wikidata](#T6)
+[Conclusion](#T7)
 
 
-## 1. La mortalité infantile dans le monde.
+
+
+## La mortalité infantile à travers le monde depuis 2014 <a id="T1"></a>
 
 ### A - Définition 
 
@@ -51,7 +59,7 @@ En effet, pour qu’une population puisse atteindre une moyenne d’âge de 70 a
 
 
 
-## 2. Espérance de vie depuis 1817 dans le Monde 
+## Espérance de vie de 1817 à 2017 par pays <a id="T2"></a>
 
 ### A - Définition EV
 
@@ -81,7 +89,7 @@ Que l'on soit né en Somalie ou en Norvège, on peut espèrer vivre moins de 25 
 De même, en fonction de la région du Monde où nous naissons nous avons plus ou moins de chances de vivre longuement. En effet, l’un des principaux déterminants des inégalités d’espérance de vie à travers le globe demeure le taux de mortalité infantile. 
 
 
-## 3. Et en France Alors ? Certes, nous vivons plus longtemps. Mais vivons-nous bien ?
+## Et en France alors ?<a id="T3"></a>
 
 ### A - Définition EVSI
 
@@ -100,7 +108,7 @@ Ce modèle s'est avéré particulièrement représentatif dans la mesure où mon
 <div class="flourish-embed flourish-chart" data-src="visualisation/5131949"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-### 4. Revenu National Brut par habitant rime avec espérance de vie.
+## Le Revenu National Brut par habitant et l'espérance de vie <a id="T4"></a>
 
 ### A - Définition 
 
@@ -119,9 +127,7 @@ Outil : Datawrapper
 On remarque que les pays dont le RNB est le plus élevé sont ceux qui disposent de la moyenne d'espérance de vie la plus importante tandis que les pays dont le RNB est le plus bas sont ceux où l'espèrance de vie est la plus faible. En effet, les 10 pays où l’espérance de vie est la plus basse sont tous localisés en Afrique subsaharienne. Ces pays sont également marqués par la malnutrition, les épidémies, la pauvreté et les guerres.
 Ainsi, le RNB témoigne du niveau de vie de ces populations, plus le niveau de vie est conséquent plus les facteurs de longevité seront notables, parmi ces facteurs on note la sécurité, la qualité de la nutrition, l'accès aux soins ou encore la qualité des infrastructures. 
 
-### 5.OpenRefine 
-
-Modification des jeux de données via OpenRefine :  
+## Modification des jeux de données via OpenRefine <a id="T5"></a>
 
 Les jeux de données employées pour les datavisualisatiosn ci-dessus étant relativement bien structurés je n'ai pas eu recours à OpenRefine de façon avancée, néanmoins le nombre de donnée étant conséquent cet outil m'a été indispensable pour supprimer rapidement les cellules qui ne contenaient aucune entrée (aucune donnée pour certains pays à certaines dates) , de même dans le cadre de certains jeu de données les nombres décimaux ( exemple : 12, 6) étaient perçues comme des entiers positifs j'ai donc remplacé l'entiereté des "," par des "." et ainsi les valeurs étaient lues comme des entiers. Par le biais d'OpenRefine je me suis également assurée de n'avoir aucun doublons. 
 
@@ -218,7 +224,7 @@ Modification du jeu de donnée de l'EV et de l'EVSI par sexe et par âge en Fran
 ]
 ````
 
-### 6.Requête Wikidata
+## Requête Wikidata <a id="T6"></a>
 
 Liste des pays par espèrance de vie (de la plus faible moyenne d'espèrance de vie à la plus elevée) 
 
@@ -264,5 +270,7 @@ SELECT DISTINCT ?pays ?paysLabel ?taux_d_alphabetisation WHERE
  ````
  
  Résultat de la requête disponible ici : https://w.wiki/xEm
+ 
+ 
+ ## Conclusion <a id="T7"></a>
 
-## La mortalité infantile à travers le monde depuis 2014 <a id="T1"></a>
