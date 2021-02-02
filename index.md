@@ -266,6 +266,8 @@ SELECT DISTINCT ?pays ?paysLabel ?taux_d_alphabetisation WHERE
  
  ## 7. Conclusion <a id="T7"></a>
 
+Le processus a véritablement été formateur dans la mesure où nous sommes rarement confrontés à des données "brutes" il a fallu dans un premier temps avant toute chose choisir les données : travail qui est bien plus fastidieux qu'il n'y parait puis ensuite les étudier, les préparer et les nettoyer avant de les enrichir et de les publier dans un format longuement réflechi et propice à l'analyse des données mises en avant. 
+
 Les données ont un véritable poids dans la mesure où elles sont exploitées habilement, en effet, comme on peut le voir plus haut j'ai fait le choix de constamment présenter mon jeu de données sous la forme d'un tableau enrichi d'une heatmap dont les couleurs étaient légendées.  Néanmoins disons-le-nous ce format était bien moins évocateur que les datavisualisations effectuées par la suite. 
 
 Le sujet me tenant à coeur j'ai pris plaisir à m'informer sur le thème, en parcourant divers études et articles (l'Observatoire des Inégalités, l'Institut National de la Statistique et des Etudes Economiques, l'UNESCO) et les données qu'ils mettaient à disposition.
@@ -274,4 +276,3 @@ Le processus nécessite une certaine autonomie et une curiosité intelectuelle d
 J'ai dans un premier temps créer un compte sur OpenDataSoft et importer manuellement les jeux de données de sorte à pouvoir obtenir l'iframe, malheuresement j'ai rapidement été rattrapé par les limites techniques, mon jeu de donnée étant trop imposant seule une partie s'affichait.
 Par la suite, je me suis tournée vers Datawrapper qui m'a permis de visualiser mon jeu de données sous la forme d'un tableau que je pouvais personnaliser (couleur, heatmap, légende), tout en obtenant un iframe.
 
-Le processus a véritablement été formateur dans la mesure où nous sommes rarement confrontés à des données "brutes" il a fallu dans un premier temps avant toute chose choisir les données : travail qui est bien plus fastidieux qu'il n'y parait puis ensuite les étudier, les préparer et les nettoyer avant de les enrichir et de les publier dans un format longuement réflechi et propice à l'analyse des données mises en avant. 
