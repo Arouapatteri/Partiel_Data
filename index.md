@@ -6,7 +6,7 @@
 2. [Espérance de vie de 1817 à 2017 par pays](#T2)
 3. [Et en France alors ?](#T3)
 4. [Le Revenu National Brut par habitant et l'espérance de vie](#T4)
-5. [Modification des jeux de données via OpenRefine](#T5)
+5. [Modification des jeux de données](#T5)
 6. [Requête Wikidata](#T6)
 7. [Conclusion](#T7)
 
@@ -118,11 +118,15 @@ Outil : Datawrapper
 On remarque que les pays dont le RNB est le plus élevé sont ceux qui disposent de la moyenne d'espérance de vie la plus importante tandis que les pays dont le RNB est le plus bas sont ceux où l'espèrance de vie est la plus faible. En effet, les 10 pays où l’espérance de vie est la plus basse sont tous localisés en Afrique subsaharienne. Ces pays sont également marqués par la malnutrition, les épidémies, la pauvreté et les guerres.
 Ainsi, le RNB témoigne du niveau de vie de ces populations, plus le niveau de vie est conséquent plus les facteurs de longevité seront notables, parmi ces facteurs on note la sécurité, la qualité de la nutrition, l'accès aux soins ou encore la qualité des infrastructures. 
 
-## Modification des jeux de données via OpenRefine <a id="T5"></a>
+## Modification des jeux de données <a id="T5"></a>
 
-Les jeux de données employées pour les datavisualisatiosn ci-dessus étant relativement bien structurés je n'ai pas eu recours à OpenRefine de façon avancée, néanmoins le nombre de donnée étant conséquent cet outil m'a été indispensable pour supprimer rapidement les cellules qui ne contenaient aucune entrée (aucune donnée pour certains pays à certaines dates) , de même dans le cadre de certains jeu de données les nombres décimaux ( exemple : 12, 6) étaient perçues comme des entiers positifs j'ai donc remplacé l'entiereté des "," par des "." et ainsi les valeurs étaient lues comme des entiers. Par le biais d'OpenRefine je me suis également assurée de n'avoir aucun doublons. 
+Avant toute chose les jeux de données utilisés pour ces datavisualisations étant en majorité des fichiers .xlsx il a fallu les convertir en .csv par le biais de LibreOffice pour pouvoir les employer de façon optimale. 
 
-Modification du jeu de données sur la mortalité infantile par pays : 
+Une fois téléchargé j'ai analysé scrupuleusement le jeu de données avant d'effectuer des vérifications via OpenRefine, certains de mes jeux de données contenant un nombre de données important, par exemple la moyenne d'espérance de vie de tous les pays de chaque année depuis 1817...J'ai donc fait le choix de retenir uniquement les années 1817 (épidémie de Peste en Afrique, expéditions militaires, première Guerre Séminole aux Etats-Unis etc..) 1917 (1ère Guerre-Mondiale) et 2017.
+
+Les jeux de données employées pour les datavisualisatiosn ci-dessus étant relativement bien structurés je n'ai pas eu recours à OpenRefine de façon avancée, néanmoins le nombre de donnée étant conséquent cet outil m'a été indispensable pour supprimer rapidement les cellules qui ne contenaient aucune entrée (aucune donnée pour certains pays à certaines dates) , de même dans le cadre de certains jeu de données les nombres décimaux ( exemple : 12, 6) étaient inteprétés comme des entiers positifs j'ai donc remplacé l'entiereté des "," par des "." et ainsi les valeurs étaient interprétes comme des nombres décimaux. Par le biais d'OpenRefine je me suis également assurée de n'avoir aucun doublon. 
+
+Modification du jeu de données sur la mortalité infantile par pays via OpenRefine: 
 
 ````sparql
 [
@@ -156,7 +160,7 @@ Modification du jeu de données sur la mortalité infantile par pays :
   }
 ]
 ````
-Modification du jeu de donnée de l'EV et de l'EVSI par sexe et par âge en France en 2018 : 
+Modification du jeu de donnée de l'EV et de l'EVSI par sexe et par âge en France en 2018 via OpenRefine : 
 
 ````sparql
 [
@@ -269,3 +273,8 @@ SELECT DISTINCT ?pays ?paysLabel ?taux_d_alphabetisation WHERE
  
  ## Conclusion <a id="T7"></a>
 
+Les données ont un véritable poids dans la mesure où elles sont exploitées habilement, en effet, comme on peut le voir plus haut j'ai fait le choix de constamment présenter mon jeu de données sous la forme d'un tableau enrichi d'une heatmap dont les couleurs étaient légendées.  Néanmoins disons-le-nous ce format était bien moins évocateur que les datavisualisations effectuées par la suite. Le sujet me tenant à coeur j'ai pris plaisir à m'informer sur le thème, en parcourant divers sites web (l'Observatoire des Inégalités, l'Institut National de la Statistique et des Etudes Economiques, l'UNESCO) et les données qu'ils mettaient à disposition.
+Le processus nécessite une certaine autonomie et une curiosité intelectuelle dans la mesure où certains outils ne présentent pas les mêmes fonctionalités, dans un premier temps mes jeux de données n'étant pas issu de OpenDataSoft il m'a fallu trouver une issue afin de pourvoir les mettre à disposition sans que le lecteur ne soit contraint de télécharger les fichiers csv, j'ai dans un premier temps créer un compte sur OpenDataSoft et importer manuellement les jeux de données de sorte à pouvoir obtenir l'iframe, malheuresement j'ai rapidement été rattrapé par les limites techniques, mon jeu de donnée étant trop imposant seule une partie s'affichait.
+Par la suite, je me suis tournée vers Datawrapper qui m'a permis de visualiser mon jeu de données sous la forme d'un tableau que je pouvais personnaliser (couleur, heatmap, légende), tout en obtenant un iframe.
+
+Le processus a été vraiment formateur dans la mesure où nous sommes rarement confrontés à des données "brutes" il a fallu dans un premier temps avant toute chose choisir les données travail qui est bien plus fastidieux qu'il n'y parait puis ensuite étudier les données, les préparer et les nettoyer avant de les enrichir et de les publier dans un format longuement réflechi propice à l'analyse des données mises en avant. 
