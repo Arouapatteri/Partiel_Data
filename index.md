@@ -9,13 +9,13 @@
 5. [Modification des jeux de données via OpenRefine](##ModificationDesJeuxDeDonnéesViaOpenRefine)
 6. [Requête Wikidata](##RequêteWikidata)
 
-[La mortalité infantile à travers le monde depuis 2014](#T1)
-[Espérance de vie de 1817 à 2017 par pays](#T2)
-[Et en France alors ?](#T3)
-[Le Revenu National Brut par habitant et l'espérance de vie](#T4)
-[Modification des jeux de données via OpenRefine](#T5)
-[Requête Wikidata](#T6)
-[Conclusion](#T7)
+1. [La mortalité infantile à travers le monde depuis 2014](#T1)
+2. [Espérance de vie de 1817 à 2017 par pays](#T2)
+3. [Et en France alors ?](#T3)
+4. [Le Revenu National Brut par habitant et l'espérance de vie](#T4)
+5. [Modification des jeux de données via OpenRefine](#T5)
+6. [Requête Wikidata](#T6)
+7. [Conclusion](#T7)
 
 
 
