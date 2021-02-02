@@ -9,6 +9,8 @@
 5. [Modification des jeux de données via OpenRefine](##ModificationDesJeuxDeDonnéesViaOpenRefine)
 6. [Requête Wikidata](##RequêteWikidata)
 
+lien : [La mortalité infantile à travers le monde depuis 2014](#)
+titre: ##La mortalité infantile à travers le monde depuis 2014 <a id="LaMortalitéInfantile"></a>
 
 ## 1. La mortalité infantile dans le monde.
 
