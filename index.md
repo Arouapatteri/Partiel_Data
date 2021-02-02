@@ -28,14 +28,14 @@ La mortalité infantile est le nombre annuel de décès d’enfants rapporté au
 ### C - Column chart (grouped) de l'évolution du taux de mortalité infantile de 2014 et 2018 (par 1000 naissances vivantes).
 
 
-<div class="flourish-embed flourish-chart" data-src
+<div class="flourish-embed flourish-chart" data-src="visualisation/5144443"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### D - Carte choroplèthe du taux de mortalité infantile en 2018 (par 1000 naissances vivantes) par pays.
 
 
 <iframe title="Taux de mortalité infantile en 2018 par pays (par 1 000 naissances vivantes)" aria-label="Map" id="datawrapper-chart-9egap" src="https://datawrapper.dwcdn.net/9egap/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-="visualisation/5144443"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 ### E - Analyse 
 
