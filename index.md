@@ -61,8 +61,9 @@ Selon l'Institut national de la statistique et des études économiques, l'espé
 ### C - Column Chart (stacked) de l'évolution de la moyenne d'espérance de vie par pays depuis 1817.
 
 
-Ce modèle se prête parfaitement à mon jeu de données dans la mesure où je souhaitais superposer les trois années (1817, 1917 et 2017) afin de mettre en évidence l'augmentation de l'espérance de vie. L'espérancee de vie s'est vue rallonger dans la plupart des pays du monde, néanmoins on constate de fortes disparités, l'Afrique demeure à distance des autres continents. Ainsi, la progression de l’espérance de vie moyenne dissimule des évolutions différentes selon les continents.
-L'Afrique Subsharienne encore une fois se distingue par une moyenne d'espèrance de vie relativement faible, avec une moyenne de 51,6 ans en Republique centraficaine. Le continent est sujet à de grandes disparités, une moyenne d'espérance de vie plus faible au sud et plus elevé pour les habitants de l'Afrique du Nord (env 75 ans).
+Ce modèle se prête relativement bien à mon jeu de données dans la mesure où je souhaitais superposer les trois années (1817, 1917 et 2017) afin de mettre en évidence l'augmentation de l'espérance de vie. L'espérance de vie s'est vue rallonger dans la plupart des pays du monde, néanmoins on constate de fortes disparités, l'Afrique demeure à distance des autres continents. Ainsi, la progression de l’espérance de vie moyenne dissimule des évolutions socio-économiques différentes selon les continents.
+
+L'Afrique Subsharienne encore une fois se distingue par une moyenne d'espèrance de vie relativement faible, avec une moyenne de 51,6 ans en République centraficaine. Le continent est sujet à de grandes disparités, on note une moyenne d'espérance de vie plus faible au sud et plus elevé pour les habitants de l'Afrique du Nord (env 75 ans).
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5117674"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -84,13 +85,12 @@ De même, en fonction de la région du Monde où nous naissons nous avons plus o
 L'EVSI (espérence de vie sans incapacité) ou "Espérance de vie en bonne santé" est un indicateur qui  évalue, à la naissance, le nombre d’années qu’une personne peut compter vivre sans souffrir d’incapacité dans les gestes de la vie quotidienne.
 Selon la Direction de la recherche, des études, de l'évaluation et des statistiques (DREES) l'espérance de vie en bonne santé s'élève en France à 64,5 ans pour les femmes et 63,4 pour le sexe masculin en 2018.
 
-
 <iframe title="Jeu de données - Espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France" aria-label="chart" id="datawrapper-chart-sYNHm" src="https://datawrapper.dwcdn.net/sYNHm/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="701"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 ### B - Column Chart (grouped) de l'espérance de vie à la naissance et espérance de vie sans incapacité, par sexe et âge en 2018 en France.
 
-Ce modèle s'est avéré particulièrement représentatif dans la mesure où mon jeu de données comportait un petit nombre de catégories distinctes, avec une valeur unique pour chaque catégorie. L'objectif étant de comparer les valeurs par chaque catégorie en simplifiant la tâche au lecteur, ce diagramme en colonnes fait appel à la capacité instinctive du lecteur à déduire les hauteurs. Il est facile d'interprétation et ne necessite pas de réelle aptitude d'analyse ou de formation pour être compris.
+Le  column chart (grouped) s'est avéré particulièrement représentatif dans la mesure où mon jeu de données comportait un petit nombre de catégories distinctes, avec une valeur unique pour chaque catégorie. L'objectif étant de comparer les valeurs par chaque catégorie en simplifiant la tâche au lecteur, ce diagramme en colonnes fait appel à la capacité instinctive du lecteur à déduire les grandeurs. Il est facile d'interprétation et ne necessite pas de réelle aptitude d'analyse ou de formation pour être compris.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5131949"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -110,14 +110,14 @@ Selon l'Organisation de Coopération et de Développement Économiques, le Reven
 <iframe title=" Revenu National Brut par Habitant ($ courants)" aria-label="Map" id="datawrapper-chart-UEH0h" src="https://datawrapper.dwcdn.net/UEH0h/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="368"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-On remarque que les pays dont le RNB est le plus élevé sont ceux qui disposent de la moyenne d'espérance de vie la plus importante tandis que les pays dont le RNB est le plus bas sont ceux où l'espèrance de vie est la plus faible. En effet, les 10 pays où l’espérance de vie est la plus basse sont tous localisés en Afrique subsaharienne. Ces pays sont également marqués par la malnutrition, les épidémies, la pauvreté et les guerres.
-Ainsi, le RNB témoigne du niveau de vie de ces populations, plus le niveau de vie est conséquent plus les facteurs de longevité seront notables, parmi ces facteurs on note la sécurité, la qualité de la nutrition, l'accès aux soins ou encore la qualité des infrastructures. 
+On remarque que les pays dont le RNB par habitant est le plus élevé sont ceux qui disposent de la moyenne d'espérance de vie la plus importante tandis que les pays dont le RNB/h est le plus bas sont ceux où l'espèrance de vie est la plus faible. En effet, les 10 pays où l’espérance de vie est la plus basse sont tous localisés en Afrique subsaharienne. Ces pays sont également marqués par la malnutrition, les épidémies, la pauvreté et les guerres.
+Ainsi, le RNB/h témoigne du niveau de vie de ces populations, plus le niveau de vie est conséquent plus les facteurs de longevité seront notables, parmi ces facteurs on note la sécurité, la qualité de la nutrition, l'accès aux soins ou encore la qualité des infrastructures. 
 
 ## Modification des jeux de données <a id="T5"></a>
 
 Avant toute chose les jeux de données utilisés pour ces datavisualisations étant en majorité des fichiers .xlsx il a fallu les convertir en .csv par le biais de LibreOffice pour pouvoir les employer de façon optimale. 
 
-Une fois téléchargé j'ai analysé scrupuleusement le jeu de données avant d'effectuer des vérifications via OpenRefine, certains de mes jeux de données contenant un nombre de données important, par exemple la moyenne d'espérance de vie de tous les pays de chaque année depuis 1817...J'ai donc fait le choix de retenir uniquement les années 1817 (épidémie de Peste en Afrique, expéditions militaires, première Guerre Séminole aux Etats-Unis etc..) 1917 (1ère Guerre-Mondiale) et 2017.
+Une fois téléchargé j'ai analysé scrupuleusement les jeu de données avant d'effectuer des vérifications via OpenRefine, certains de mes jeux de données contenaient un nombre de données important, par exemple la moyenne d'espérance de vie de tous les pays de chaque année depuis 1817...J'ai donc fait le choix de retenir uniquement des  périodes charnières telles que 1817 (épidémie de Peste en Afrique, famine , expéditions militaires, première Guerre Séminole aux Etats-Unis etc..) 1917 (nombreuses  guerres  et conflits armés en raison de la 1ère Guerre-Mondiale ) et 2017 (pour visualiser l'évolution).
 
 Les jeux de données employées pour les datavisualisatiosn ci-dessus étant relativement bien structurés je n'ai pas eu recours à OpenRefine de façon avancée, néanmoins le nombre de donnée étant conséquent cet outil m'a été indispensable pour supprimer rapidement les cellules qui ne contenaient aucune entrée (aucune donnée pour certains pays à certaines dates) , de même dans le cadre de certains jeu de données les nombres décimaux ( exemple : 12, 6) étaient inteprétés comme des entiers positifs j'ai donc remplacé l'entiereté des "," par des "." et ainsi les valeurs étaient interprétes comme des nombres décimaux. Par le biais d'OpenRefine je me suis également assurée de n'avoir aucun doublon. 
 
