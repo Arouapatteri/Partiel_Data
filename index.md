@@ -228,8 +228,7 @@ SELECT DISTINCT ?pays ?paysLabel ?esperance_de_vie WHERE
 }
 ORDER BY asc (?esperance_de_vie)
 ````
-
-<iframe style="width: 80vw; height: 50vh; border: none;" src="https://query.wikidata.org/embed.html#SELECT%20DISTINCT%20%3Fpays%20%3FpaysLabel%20%3Fesperance_de_vie%20WHERE%20%0A%7B%0A%20%20%3Fpays%20wdt%3AP31%20wd%3AQ6256.%0A%20%20%3Fpays%20wdt%3AP2250%20%3Fesperance_de_vie.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22fr%22.%20%7D%0A%7D%0AORDER%20BY%20asc%20(%3Fesperance_de_vie)" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+<iframe style="width: 80vw; height: 50vh; border: none; center;" src="https://query.wikidata.org/embed.html#SELECT%20DISTINCT%20%3Fpays%20%3FpaysLabel%20%3Fesperance_de_vie%20WHERE%20%0A%7B%0A%20%20%3Fpays%20wdt%3AP31%20wd%3AQ6256.%0A%20%20%3Fpays%20wdt%3AP2250%20%3Fesperance_de_vie.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22fr%22.%20%7D%0A%7D%0AORDER%20BY%20asc%20(%3Fesperance_de_vie)" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 Résultat de la requête disponible ici : https://w.wiki/xEM
 
  
