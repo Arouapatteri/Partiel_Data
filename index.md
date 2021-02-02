@@ -78,7 +78,7 @@ Que l'on soit né en Somalie ou en Norvège, on peut espèrer vivre moins de 25 
 De même, en fonction de la région du Monde où nous naissons nous avons plus ou moins de chances de vivre longuement. En effet, l’un des principaux facteurs des inégalités d’espérance de vie à travers le globe demeure le taux de mortalité infantile. 
 
 
-## 3.  Et en France alors ? - Espérance de vie et espérance de vie sans incapacité <a id="T3"></a>
+## 3. Et en France alors ? - Espérance de vie et espérance de vie sans incapacité <a id="T3"></a>
 
 ### A - Définition EVSI
 
@@ -95,7 +95,7 @@ Le  column chart (grouped) s'est avéré particulièrement représentatif dans l
 <div class="flourish-embed flourish-chart" data-src="visualisation/5131949"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-## 4.  Le Revenu National Brut par habitant et l'espérance de vie <a id="T4"></a>
+## 4. Le Revenu National Brut par habitant et l'espérance de vie <a id="T4"></a>
 
 ### A - Définition 
 
@@ -113,7 +113,7 @@ Selon l'Organisation de Coopération et de Développement Économiques, le Reven
 On remarque que les pays dont le RNB par habitant est le plus élevé sont ceux qui disposent de la moyenne d'espérance de vie la plus importante tandis que les pays dont le RNB/h est le plus bas sont ceux où l'espèrance de vie est la plus faible. En effet, les 10 pays où l’espérance de vie est la plus basse sont tous localisés en Afrique subsaharienne. Ces pays sont également fortement marqués par la malnutrition, les épidémies, la pauvreté extrême et les guerres, tout ces facteurs viennent amoindrir la moyenne d'espèrance de vie de ces populations. 
 Ainsi, le RNB/h témoigne du niveau de vie de ces populations, plus le niveau de vie est conséquent plus les facteurs de longevité seront notables, parmi ces facteurs on note la sécurité, la qualité de la nutrition, l'accès aux soins ou encore la qualité des infrastructures. 
 
-## 5.  Modification des jeux de données <a id="T5"></a>
+## 5. Modification des jeux de données <a id="T5"></a>
 
 Avant toute chose les jeux de données utilisés pour ces datavisualisations étant en majorité des fichiers .xlsx il a fallu les convertir en .csv par le biais de LibreOffice pour pouvoir les employer de façon optimale. 
 
@@ -214,7 +214,7 @@ Modification du jeu de donnée de l'EV et de l'EVSI par sexe et par âge en Fran
 ]
 ````
 
-## 6.  Requêtes Wikidata <a id="T6"></a>
+## 6. Requêtes Wikidata <a id="T6"></a>
 
 ### Liste des pays par espèrance de vie (de la plus faible moyenne d'espèrance de vie à la plus élevée) 
 
@@ -264,7 +264,7 @@ SELECT DISTINCT ?pays ?paysLabel ?taux_d_alphabetisation WHERE
  Résultat de la requête disponible ici : https://w.wiki/xEm
  
  
- ## 7.  Conclusion <a id="T7"></a>
+ ## 7. Conclusion <a id="T7"></a>
 
 Les données ont un véritable poids dans la mesure où elles sont exploitées habilement, en effet, comme on peut le voir plus haut j'ai fait le choix de constamment présenter mon jeu de données sous la forme d'un tableau enrichi d'une heatmap dont les couleurs étaient légendées.  Néanmoins disons-le-nous ce format était bien moins évocateur que les datavisualisations effectuées par la suite. 
 
