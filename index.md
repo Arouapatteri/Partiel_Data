@@ -10,7 +10,7 @@
 6. [Requête Wikidata](##RequêteWikidata)
 
 [La mortalité infantile à travers le monde depuis 2014](#T1)
-## La mortalité infantile à travers le monde depuis 2014 <a id="T1"></a>
+
 
 ## 1. La mortalité infantile dans le monde.
 
@@ -264,3 +264,5 @@ SELECT DISTINCT ?pays ?paysLabel ?taux_d_alphabetisation WHERE
  ````
  
  Résultat de la requête disponible ici : https://w.wiki/xEm
+
+## La mortalité infantile à travers le monde depuis 2014 <a id="T1"></a>
